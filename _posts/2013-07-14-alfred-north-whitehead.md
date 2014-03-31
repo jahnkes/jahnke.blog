@@ -3,7 +3,7 @@ author: olivia
 date: '2013-07-14T12:16:56-05:00'
 layout: post
 tags: []
-title: Quote
+title: Alfred North Whitehead
 tumblr_url: http://jahnke.us/post/55438547945/the-art-of-progress-is-to-preserve-order-amid
 type: quote
 ---

@@ -3,7 +3,7 @@ author: olivia
 date: '2013-08-14T19:38:30-05:00'
 layout: post
 tags: []
-title: Quote
+title: Ralph Waldo Emerson
 tumblr_url: http://jahnke.us/post/58291283519/every-man-in-his-lifetime-needs-to-thank-his
 type: quote
 ---

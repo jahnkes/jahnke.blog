@@ -2,7 +2,7 @@ markdown: redcarpet
 paginate: 10
 highlighter: true
 title: A + O
-url: http://a-and-o.co
+baseurl: http://a-and-o.co
 
 # prose.io configuration
 prose:

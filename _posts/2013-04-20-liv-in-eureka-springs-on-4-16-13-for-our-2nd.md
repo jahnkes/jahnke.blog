@@ -8,3 +8,4 @@ tumblr_url: http://jahnke.us/post/48491226576/liv-in-eureka-springs-on-4-16-13-f
 type: photo
 ---
 
+![](/media/tumblr_mll3vlgRAz1qga9s2o1_1280.jpg)

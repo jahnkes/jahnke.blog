@@ -3,7 +3,7 @@ author: olivia
 date: '2013-03-01T14:32:38-06:00'
 layout: post
 tags: []
-title: Quote
+title: Leo Tolstoy
 tumblr_url: http://jahnke.us/post/44312210763/if-you-are-now-going-to-work-to-study-in-order-to
 type: quote
 ---
