@@ -2,4 +2,37 @@ markdown: redcarpet
 paginate: 10
 pygments: true
 title: A + O
-url: http://a-and-o.co
+siteurl: http://a-and-o.co
+
+# prose.io configuration
+media: _media
+metadata:
+  _posts:
+    - name: title
+      field:
+        element: text
+    - name: author
+      field:
+        element: select
+        options:
+          - name: Adam
+            value: adam
+          - name: Olivia
+            value: olivia
+    - name: type
+      field:
+        element: select
+        options:
+          - name: Post
+            value: post
+          - name: Photo
+            value: photo
+          - name: Quote
+            value: quote
+          - name: Conversation
+            value: conversation
+    - name: layout
+      field:
+        element: hidden
+        value: post
+rooturl: _posts
