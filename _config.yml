@@ -15,6 +15,7 @@ prose:
       - name: author
         field:
           element: select
+          label: Author
           options:
             - name: Adam
               value: adam
@@ -23,6 +24,7 @@ prose:
       - name: type
         field:
           element: select
+          label: Type
           options:
             - name: Post
               value: post
@@ -32,9 +34,14 @@ prose:
               value: quote
             - name: Conversation
               value: conversation
+      - name: tags
+        field:
+          element: text
+          label: Tags
+          placeholder: comma, separated, list
       - name: layout
         field:
           element: hidden
           value: post
   rooturl: _posts
-  siteurl: http://a-and-o.co
+  #siteurl: http://a-and-o.co
