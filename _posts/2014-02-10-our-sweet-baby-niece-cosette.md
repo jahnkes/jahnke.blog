@@ -9,4 +9,4 @@ type: photo
 published: true
 ---
 
-![](/_media/tumblr_n0sfcePvA51qga9s2o1_1280.jpg)
+![tumblr_n0sfcePvA51qga9s2o1_1280.jpg](/_media/tumblr_n0sfcePvA51qga9s2o1_1280.jpg)
