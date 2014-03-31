@@ -1,0 +1,9 @@
+---
+author: adam
+date: '2012-09-01T07:00:17-05:00'
+layout: post
+tags: ireland
+title: On the Ferry to Dublin
+tumblr_url: http://jahnke.us/post/30652816186/on-the-ferry-to-dublin-with-olivia-view-on-path
+type: photo
+---

@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<h2><a href="{{ page.tumblr_url }}">{{ page.title }}</a></h2>
+<small class="meta">
+  Posted by <span class="author">{{ page.author }}</span>
+  on {{ page.date | date: '%B %d, %Y' }} <time datetime="{{ page.date }}">
+  {% if page.tags > 0 %}
+  under {{ page.tags | array_to_sentence_string }}
+  {% endif %}
+</small>
+
+<div class="post">
+  {{ content }}
+</div>

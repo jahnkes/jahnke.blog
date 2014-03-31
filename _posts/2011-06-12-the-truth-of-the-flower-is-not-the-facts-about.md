@@ -1,0 +1,12 @@
+---
+layout: post
+title: 'The truth of the flower is, not the facts about it, be they correct as ideal
+  science itself, but the shining, glowing, gladdening, patient thing throned on its
+  stalk-the compeller of smile and tear…The idea of God is the flower: His idea is
+  not the botany of the flower. Its botany is but a thing of ways and means-of canvas
+  and color and brush in relation to the picture in the painter’s brain.'
+date: '2011-06-12T16:38:19-05:00'
+tags: []
+tumblr_url: http://jahnke.us/post/6467851364/the-truth-of-the-flower-is-not-the-facts-about
+---
+The truth of the flower is, not the facts about it, be they correct as ideal science itself, but the shining, glowing, gladdening, patient thing throned on its stalk-the compeller of smile and tear…The idea of God is the flower: His idea is not the botany of the flower. Its botany is but a thing of ways and means-of canvas and color and brush in relation to the picture in the painter’s brain.—George MacDonald

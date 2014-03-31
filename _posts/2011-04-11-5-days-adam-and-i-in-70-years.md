@@ -1,0 +1,9 @@
+---
+layout: post
+title: |-
+  5 days.
+  Adam and I in 70 years.
+date: '2011-04-11T11:41:50-05:00'
+tags: []
+tumblr_url: http://jahnke.us/post/4529575377/5-days-adam-and-i-in-70-years
+---

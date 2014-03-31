@@ -1,0 +1,10 @@
+---
+layout: post
+title: I think most creative people are so insecure that they want to think they know
+  everything but they know deep in their hearts they’re just in deep trouble from
+  the moment they get up in the morning.
+date: '2011-12-22T14:00:00-06:00'
+tags: []
+tumblr_url: http://jahnke.us/post/14628771197/i-think-most-creative-people-are-so-insecure-that
+---
+I think most creative people are so insecure that they want to think they know everything but they know deep in their hearts they’re just in deep trouble from the moment they get up in the morning.—Wieden

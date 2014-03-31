@@ -1,0 +1,5 @@
+markdown: redcarpet
+paginate: 10
+pygments: true
+title: A + O
+url: http://a-and-o.co
