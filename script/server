@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-jekyll serve --watch
+jekyll serve --drafts --port 4001 --watch

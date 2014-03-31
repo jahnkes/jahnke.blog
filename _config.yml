@@ -1,6 +1,6 @@
 markdown: redcarpet
 paginate: 10
-pygments: true
+highlighter: true
 title: A + O
 url: http://a-and-o.co
 
