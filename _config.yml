@@ -36,9 +36,9 @@ prose:
               value: conversation
       - name: tags
         field:
-          element: text
+          alterable: true
+          element: multiselect
           label: Tags
-          placeholder: comma, separated, list
       - name: layout
         field:
           element: hidden
