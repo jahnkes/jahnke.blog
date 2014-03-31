@@ -9,4 +9,4 @@ type: photo
 published: true
 ---
 
-![tumblr_n0sfcePvA51qga9s2o1_1280.jpg](/_media/tumblr_n0sfcePvA51qga9s2o1_1280.jpg)
+![Cosette](/media/tumblr_n0sfcePvA51qga9s2o1_1280.jpg)
