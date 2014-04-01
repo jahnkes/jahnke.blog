@@ -7,3 +7,5 @@ title: Tea All Day and Fish and Chips at Oxford Arms for Supper
 tumblr_url: http://jahnke.us/post/30518249742/tea-all-day-and-fish-and-chips-at-oxford-arms-for
 type: photo
 ---
+
+![](/media/tumblr_m9kkjnQydZ1qga9s2o1_1280.jpg)

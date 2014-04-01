@@ -8,3 +8,4 @@ tumblr_url: http://jahnke.us/post/30941760705/thorny-leafy-tree-view-on-path
 type: photo
 ---
 
+![](/media/tumblr_m9w2diUbNj1qga9s2o1_1280.jpg)

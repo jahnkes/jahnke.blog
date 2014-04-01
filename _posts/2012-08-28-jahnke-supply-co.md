@@ -7,3 +7,5 @@ title: Jahnke Supply Co.
 tumblr_url: http://jahnke.us/post/30387796027/jahnke-supply-co
 type: photo
 ---
+
+![](/media/tumblr_m9h0beibbN1qga9s2o1_1280.jpg)

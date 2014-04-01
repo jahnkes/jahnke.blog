@@ -8,3 +8,4 @@ tumblr_url: http://jahnke.us/post/31129837074/misty-mountains-view-on-path
 type: photo
 ---
 
+![](/media/tumblr_ma1hswIuGh1qga9s2o1_1280.jpg)

@@ -10,7 +10,7 @@ type: post
 
 As you may or may not know, I spent the majority of my life thus far traveling in a band that consisted of my family members. We had some real great times. Real, great times. Here’s one recollection. 
 
-4.22.08—adventures and alarms leave me to give you a recount of the happenings of last friday evening. they were no less alarming than they were adventurous, therefore they won’t set in my memory for solitary contemplation. 
+**4.22.08**—adventures and alarms leave me to give you a recount of the happenings of last friday evening. they were no less alarming than they were adventurous, therefore they won’t set in my memory for solitary contemplation. 
 
 it was running very close to the hour of seven at which point we were to present ourselves as “the franz family”. the very nature of our title leads one to believe that we are always presenting ourselves thus, because there is no running from our title. it’s true. every restaurant and bowling alley from here to there and back again will show account of “the franz family”, even when not seen with instruments in hand, we are: the franz family. or as one french in canada introduced us “the family frAHnz”. 
 

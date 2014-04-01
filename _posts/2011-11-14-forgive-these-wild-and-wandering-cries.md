@@ -1,15 +1,16 @@
 ---
 layout: post
-title: |-
-  Forgive these wild and wandering cries,
-  Confusions of a wasted youth;
-  Forgive them where they fail in truth,
-  And in Thy wisdom make me wise.
+title: Lord Alfred Tennyson
 date: '2011-11-14T10:08:28-06:00'
 tags: []
 tumblr_url: http://jahnke.us/post/12792200512/forgive-these-wild-and-wandering-cries
+type: quote
+author: olivia
 ---
-Forgive these wild and wandering cries,
-Confusions of a wasted youth;
-Forgive them where they fail in truth,
-And in Thy wisdom make me wise.—Lord Alfred Tennyson
+
+> Forgive these wild and wandering cries,<br/>
+> Confusions of a wasted youth;<br/>
+> Forgive them where they fail in truth,<br/>
+> And in Thy wisdom make me wise.
+
+– Lord Alfred Tennyson

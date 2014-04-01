@@ -7,3 +7,5 @@ title: By the Sword
 tumblr_url: http://jahnke.us/post/30745975645/by-the-sword-view-on-path
 type: photo
 ---
+
+![](/media/tumblr_m9qnt7lw6G1qga9s2o1_1280.jpg)

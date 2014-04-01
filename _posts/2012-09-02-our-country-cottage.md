@@ -8,3 +8,4 @@ tumblr_url: http://jahnke.us/post/30725541640/our-country-cottage-with-olivia-an
 type: photo
 ---
 
+![](/media/tumblr_m9q8bkfk2e1qga9s2o1_1280.jpg)

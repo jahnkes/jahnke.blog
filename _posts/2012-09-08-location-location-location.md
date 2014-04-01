@@ -7,3 +7,5 @@ title: Location, Location, Location
 tumblr_url: http://jahnke.us/post/31129792117/location-location-location-view-on-path
 type: photo
 ---
+
+![](/media/tumblr_ma1hrpe0Tc1qga9s2o1_1280.jpg)

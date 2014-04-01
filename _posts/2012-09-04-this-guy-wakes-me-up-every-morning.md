@@ -8,3 +8,4 @@ tumblr_url: http://jahnke.us/post/30858969149/this-guy-wakes-me-up-every-morning
 type: photo
 ---
 
+![](/media/tumblr_m9tecw9Qx21qga9s2o1_1280.jpg)

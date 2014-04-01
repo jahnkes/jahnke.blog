@@ -8,3 +8,4 @@ tumblr_url: http://jahnke.us/post/18177333574/adams-jump-training-in-the-parking
 type: photo
 ---
 
+<video controls src="/media/tumblr_lzvvv5wn7u1qga9s2_r1.mov"></video>

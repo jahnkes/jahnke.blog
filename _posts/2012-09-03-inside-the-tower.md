@@ -8,3 +8,4 @@ tumblr_url: http://jahnke.us/post/30819321872/inside-the-tower-view-on-path
 type: photo
 ---
 
+![](/media/tumblr_m9sixlGmwu1qga9s2o1_1280.jpg)

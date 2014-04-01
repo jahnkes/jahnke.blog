@@ -7,3 +7,5 @@ title: Westminster Abbey
 tumblr_url: http://jahnke.us/post/30539398382/westminster-abbey
 type: photo
 ---
+
+![](/media/tumblr_m9l65aKZep1qga9s2o1_1280.jpg)

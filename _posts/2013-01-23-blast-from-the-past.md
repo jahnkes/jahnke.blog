@@ -10,7 +10,7 @@ type: post
 
 Today while rummaging around my computerized documents I ran across some musings of the past. Here’s a look inside my mind when I was about 19 or so, when I thought it was cool to not properly capitalize words.
 
-4.8.08—it is with regrettably truthful admittance that i relay this next sentence. last night it was quite a possible scenario that i poisoned the family. it was absolutely out of sync with my every desire, and i must say, i was aware of the potential danger, even took meaningful steps to avoid such pitfalls. however, it was all in vain. it is universally acknowledged that moments of mindlessness lead to lives of regret, and that one must do one’s best to keep one’s wits about themselves at all times in pursuit of what some would call success, and in this case, we shall title “the breath within your lungs”. 
+**4.8.08**—it is with regrettably truthful admittance that i relay this next sentence. last night it was quite a possible scenario that i poisoned the family. it was absolutely out of sync with my every desire, and i must say, i was aware of the potential danger, even took meaningful steps to avoid such pitfalls. however, it was all in vain. it is universally acknowledged that moments of mindlessness lead to lives of regret, and that one must do one’s best to keep one’s wits about themselves at all times in pursuit of what some would call success, and in this case, we shall title “the breath within your lungs”. 
 
 last evening, just after hearing jennifer’s voice invite herself to my house, i heard jennifer’s voice demand cupcakes. now, i am the sort of person that doesn’t mind trouble, but feels that it should be avoided at all costs. that being said, i set to work to see what could be done with the baking and distribution of cupcakes. after raiding the upper cabinets (the lower have nothing but empty containers and pickled cucumbers) i found my search to be rather fruitless except for a container of three or five year old cream cheese frosting. i’m not particularly in the habit of eating old foods, so i discarded it onto the counter and returned to a state of thinking.
 
@@ -28,8 +28,8 @@ we all accepted our fate. one already knows when tasting evil sweetness that one
 
 i quite happily inform you that everyone woke up this morning. 
 
-5.7.08—i need to go shower. i think the people at church would appreciate it if i didn’t look homeless when i walked in.
+**5.7.08**—i need to go shower. i think the people at church would appreciate it if i didn’t look homeless when i walked in.
 
 although, there is this one guy who’s always very dirty, and they still accept him. i don’t, because he looks at me weird, but that’s a different story.
 
-7.8.08—this morning i was sitting at my brother hadley’s dining room table eating grapes and muffins with ashlyn. she picked up a grape and displayed it to me and said “these..have water in them”
+**7.8.08**—this morning i was sitting at my brother hadley’s dining room table eating grapes and muffins with ashlyn. she picked up a grape and displayed it to me and said “these..have water in them”

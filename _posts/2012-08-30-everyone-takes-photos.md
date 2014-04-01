@@ -7,3 +7,5 @@ title: Everyone Takes Photos
 tumblr_url: http://jahnke.us/post/30539599206/everyone-takes-photos
 type: photo
 ---
+
+![](/media/tumblr_m9l6akbTaG1qga9s2o1_500.jpg)
