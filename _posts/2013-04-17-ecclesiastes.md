@@ -1,45 +1,46 @@
 ---
-author: olivia
-date: '2013-04-17T09:01:00-05:00'
 layout: post
+author: olivia
+date: "2013-04-17T09:01:00-05:00"
 tags: []
-title: Ecclesiastes 7:1-14
-tumblr_url: http://jahnke.us/post/48201422141/a-good-name-is-better-than-a-good-ointment-and
+title: "Ecclesiastes 7:1-14"
+tumblr_url: "http://jahnke.us/post/48201422141/a-good-name-is-better-than-a-good-ointment-and"
 type: quote
+published: true
 ---
 
-> A good name is better than a good ointment,
-> And the day of one’s death is better than the day of one’s birth.
-> It is better to go to a house of mourning
-> Than to go to a house of feasting,
-> Because that is the end of every man,
-> And the living takes it to heart.
-> Sorrow is better than laughter,
-> For when a face is sad a heart may be happy.
-> The mind of the wise is in the house of mourning,
-> While the mind of fools is in the house of pleasure.
-> It is better to listen to the rebuke of a wise man
-> Than for one to listen to the song of fools.
-> For as the crackling of thorn bushes under a pot,
-> So is the laughter of the fool;
-> And this too is futility.
-> For oppression makes a wise man mad,
-> And a bribe corrupts the heart.
-> The end of a matter is better than its beginning;
-> Patience of spirit is better than haughtiness of spirit.
-> Do not be eager in your heart to be angry,
-> For anger resides in the bosom of fools.
-> Do not say, Why is it that the former days were better than these?
-> For it is not from wisdom that you ask about this.
-> Wisdom along with an inheritance is good
-> And an advantage to those who see the sun.
-> For wisdom is protection just as money is protection,
-> But the advantage of knowledge is that wisdom preserves the lives of its possessors.
-> Consider the work of God,
-> For who is able to straighten what He has bent?
-> In the day of prosperity be happy,
-> But in the day of adversity consider-
-> God has made the one as well as the other
-> So that man will not discover anything that will be after him.
+> A good name is better than a good ointment,<br/>
+> And the day of oneâ€™s death is better than the day of oneâ€™s birth.<br/>
+> It is better to go to a house of mourning<br/>
+> Than to go to a house of feasting,<br/>
+> Because that is the end of every man,<br/>
+> And the living takes it to heart.<br/>
+> Sorrow is better than laughter,<br/>
+> For when a face is sad a heart may be happy.<br/>
+> The mind of the wise is in the house of mourning,<br/>
+> While the mind of fools is in the house of pleasure.<br/>
+> It is better to listen to the rebuke of a wise man<br/>
+> Than for one to listen to the song of fools.<br/>
+> For as the crackling of thorn bushes under a pot,<br/>
+> So is the laughter of the fool;<br/>
+> And this too is futility.<br/>
+> For oppression makes a wise man mad,<br/>
+> And a bribe corrupts the heart.<br/>
+> The end of a matter is better than its beginning;<br/>
+> Patience of spirit is better than haughtiness of spirit.<br/>
+> Do not be eager in your heart to be angry,<br/>
+> For anger resides in the bosom of fools.<br/>
+> Do not say, Why is it that the former days were better than these?<br/>
+> For it is not from wisdom that you ask about this.<br/>
+> Wisdom along with an inheritance is good<br/>
+> And an advantage to those who see the sun.<br/>
+> For wisdom is protection just as money is protection,<br/>
+> But the advantage of knowledge is that wisdom preserves the lives of its possessors.<br/>
+> Consider the work of God,<br/>
+> For who is able to straighten what He has bent?<br/>
+> In the day of prosperity be happy,<br/>
+> But in the day of adversity consider<br/>
+> God has made the one as well as the other<br/>
+> So that man will not discover anything that will be after him.<br/>
 
-– Ecclesiastes 7:1-14
+â€“ Ecclesiastes 7:1-14
