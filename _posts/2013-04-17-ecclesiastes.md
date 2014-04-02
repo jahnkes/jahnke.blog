@@ -10,7 +10,7 @@ published: true
 ---
 
 > A good name is better than a good ointment,<br/>
-> And the day of oneâ€™s death is better than the day of oneâ€™s birth.<br/>
+> And the day of one's death is better than the day of one's birth.<br/>
 > It is better to go to a house of mourning<br/>
 > Than to go to a house of feasting,<br/>
 > Because that is the end of every man,<br/>
@@ -43,4 +43,4 @@ published: true
 > God has made the one as well as the other<br/>
 > So that man will not discover anything that will be after him.<br/>
 
-â€“ Ecclesiastes 7:1-14
+– Ecclesiastes 7:1-14
