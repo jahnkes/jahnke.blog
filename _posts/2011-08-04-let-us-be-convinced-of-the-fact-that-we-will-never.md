@@ -1,9 +1,0 @@
----
-layout: post
-title: Let us be convinced of the fact that we will never be anything but beginners,
-  all our lives.
-date: '2011-08-04T17:24:43-05:00'
-tags: []
-tumblr_url: http://jahnke.us/post/8490202027/let-us-be-convinced-of-the-fact-that-we-will-never
----
-Let us be convinced of the fact that we will never be anything but beginners, all our lives.—

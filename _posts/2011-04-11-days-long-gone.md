@@ -1,10 +1,13 @@
 ---
 layout: post
-title: days long gone.
+title: Days long gone
 date: '2011-04-11T10:38:00-05:00'
 tags: []
 tumblr_url: http://jahnke.us/post/4528487044/days-long-gone
+type: post
+author: olivia
 ---
+
 Today while going through the last of my things I found a CD of old pictures of my mom’s family that she nabbed from my grandma and scanned a few years ago. I love old photos. Here are a few. 
 
 This is my Grandma Deloris. I love her dress!
