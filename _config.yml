@@ -3,6 +3,7 @@ paginate: 5
 highlighter: true
 title: A + O
 baseurl: http://a-and-o.co
+exclude: [ 'CNAME', 'Gemfile', 'Gemfile.lock', 'script' ]
 
 # prose.io configuration
 prose:
@@ -44,4 +45,3 @@ prose:
           element: hidden
           value: post
   rooturl: _posts
-  #siteurl: http://a-and-o.co
