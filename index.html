@@ -4,19 +4,31 @@ title: A + O
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in paginator.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+
+  {% for post in paginator.posts %}
+  <article class="post">
+    <header>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <small class="meta">
+        Posted by <span class="author">{{ post.author }}</span>
+        on {{ post.date | date: '%B %d, %Y' }} <time datetime="{{ post.date }}">
+        {% if post.tags > 0 %}
+        under {{ post.tags | array_to_sentence_string }}
+        {% endif %}
+      </small>
+    </header>
+
+    <div class="content">
+      {{ post.excerpt }}
+    </div>
+    <small><a href="{{ post.url }}">View full post &raquo;</a></small>
+  </article>
+  {% endfor %}
 
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
     {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-    {% else %}
-    <!--<span>&laquo; Prev</span>-->
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Newer posts</a>
     {% endif %}
 
     <!--
@@ -32,9 +44,7 @@ title: A + O
     -->
 
     {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-    {% else %}
-    <!--<span>Next &raquo;</span>-->
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older posts &raquo;</a>
     {% endif %}
   </div>
   {% endif %}

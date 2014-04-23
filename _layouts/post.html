@@ -2,18 +2,24 @@
 layout: default
 ---
 
-<h2><a href="{{ page.tumblr_url }}">{{ page.title }}</a></h2>
-<small class="meta">
-  Posted by <span class="author">{{ page.author }}</span>
-  on {{ page.date | date: '%B %d, %Y' }} <time datetime="{{ page.date }}">
-  {% if page.tags > 0 %}
-  under {{ page.tags | array_to_sentence_string }}
-  {% endif %}
-</small>
+<article class="post">
+  <header>
+    <h2>{{ page.title }}</h2>
+    <small class="meta">
+      Posted by <span class="author">{{ page.author }}</span>
+      on {{ page.date | date: '%B %d, %Y' }} <time datetime="{{ page.date }}">
+      {% if page.tags > 0 %}
+      under {{ page.tags | array_to_sentence_string }}
+      {% endif %}
+    </small>
+  </header>
 
-<div class="post">
-  {{ content }}
+  <div class="content">
+    {{ content }}
+  </div>
+</article>
+
+<div class="pagination">
+  <a href="{{ page.next.url }}">&laquo; Newer post</a>
+  <a href="{{ page.previous.url }}">Older post &raquo;</a>
 </div>
-
-<a href="{{ page.next.url }}">&laquo; Newer post</a>
-<a href="{{ page.previous.url }}">Older post &raquo;</a>

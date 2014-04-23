@@ -1,19 +1,39 @@
 ---
 ---
 
+$color_cyan: #32A198
+$color_cyan2: #72CADC
+$color_green: #86981C
+$color_green2: #668426
+$color_yellow: #B5881D
+$color_yellow2: #E9A734
+
 *
+  -webkit-box-sizing: border-box
   margin: 0
   padding: 0
 
-html, body
+html
+  font-size: 62.5%
   height: 100%
 
 body
-  background-color: #FFF
-  font: 13.34px Helvetica, Arial, sans-serif
-  font-size: small
-  text-align: center
+  background-color: #fff
+  color: #333
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif
+  font-size: 1.6rem
+  line-height: 1.6
+  text-align: justify
 
+#wrapper
+  overflow: hidden
+  position: relative
+
+#content
+  margin: 0rem auto
+  max-width: 55rem
+  padding: 3rem 2rem
+  width: 100%
 
 h1, h2, h3, h4, h5, h6
   font-size: 100%
@@ -24,123 +44,141 @@ p
   margin: 1em 0
 
 a
-  color: #00a
+  border-bottom: 1px dotted $color_cyan
+  color: $color_cyan
+  text-decoration: none
 a:hover
-  color: #000
-a:visited
-  color: #a0a
+  border-bottom: 1px solid #999
+  color: #999
 
 blockquote
-  border-left: 0.25rem solid #aaa
-  padding-left: 1rem
+  border-left: 0.25rem solid $color_yellow2
+  color: #555
+  font-size: 1.2em
+  font-weight: 200
+  padding-left: 1em
 
+img
+  max-width: 100%
 
-.posts
-  list-style-type: none
-  margin-bottom: 2em
+#site-header
+  #logo
+    height: 30rem
+    position: relative
+  .letters
+    font-family: Georgia, Times, serif
+    font-size: 8rem
+    left: 50%
+    position: absolute
+    top: 50%
+    -webkit-transform: translate(-50%, -50%)
+    -webkit-transition: all 0.5s
+    -webkit-transition-delay: 0.5s
+    a
+      color: #333
+    .a, .and, .o
+      height: 14rem
+      line-height: 14rem
+      position: absolute
+      -webkit-transform: translate(0%, -50%)
+    .a, .o
+      text-align: center
+      width: 14rem
+    .a
+      position: absolute
+      right: 0%
+      top: 50%
+    .and
+      margin: -5px 0px 0px 1px
+      position: absolute
+      -webkit-transform: translate(-50%, -50%)
+    .o
+      left: 0%
+      position: absolute
+  .bar
+    background-color: #333
+    height: 30rem
+    left: 50%
+    position: absolute
+    top: 0%
+    width: 1px
+    -webkit-transition: all 1s
+    &:nth-of-type(odd)
+      -webkit-transform: rotate(45deg)
+    &:nth-of-type(even)
+      -webkit-transform: rotate(-45deg)
+    &:nth-of-type(1),
+    &:nth-of-type(6)
+      height: 35rem
+      top: -9rem
 
+    &:nth-of-type(3),
+    &:nth-of-type(4)
 
-.posts li
-  line-height: 1.75em
+    &:nth-of-type(2),
+    &:nth-of-type(5)
+      height: 25rem
+      top: 4.5rem
 
+    &:nth-of-type(1)
+      margin-left: -7.5rem
+    &:nth-of-type(3)
+    &:nth-of-type(5)
+      background-color: $color_yellow2
+      margin-left: 12rem
 
-.posts span
-  color: #aaa
-  font-family: Monaco, "Courier New", monospace
-  font-size: 80%
+    &:nth-of-type(2)
+      margin-left: -12rem
+    &:nth-of-type(4)
+    &:nth-of-type(6)
+      margin-left: 7.5rem
 
-
-.site
-  font-size: 115%
-  text-align: justify
-  width: 42em
-  margin: 3em auto 2em
-  line-height: 1.5em
-
-
-.header a
-  font-weight: bold
-  text-decoration: none
-
-
-.title
-  display: inline-block
-  margin-bottom: 2em
-
-
-.title a
-  color: #a00
-
-
-.title a:hover
-  color: #000
-
-
-.header a.extra
-  color: #aaa
-  margin-left: 1em
-
-
-.header a.extra:hover
-  color: #000
-
+  &.scrolled
+    .letters
+      opacity: 0
+      -webkit-transition-delay: 0s
+    .bar
+      &:nth-of-type(odd)
+        -webkit-transform: rotate(45deg) translate(-200%, -200%)
+      &:nth-of-type(even)
+        -webkit-transform: rotate(-45deg) translate(-200%, -200%)
 
 .meta
   color: #aaa
+  .author
+    text-transform: capitalize
 
+.post
+  margin-bottom: 3em
+  header
+    a
+      border-color: #333
+      color: #333
+      &:hover
+        border-color: $color_cyan
+        color: $color_cyan
+  .content
+    font-size: 1.4rem
+  ul, ol
+    margin-left: 1.35em
+  code
+    border: 1px solid #ddd
+    background-color: #eef
+    padding: 0 .2em
+  pre
+    border: 1px solid #ddd
+    background-color: #eef
+    padding: 0 .4em
+    code
+      border: none
+    &.terminal
+      border: 1px solid #000
+      background-color: #333
+      color: #FFF
+    &.terminal code
+      background-color: #333
 
-.footer
-  font-size: 80%
-  color: #666
-  border-top: 4px solid #eee
-  margin-top: 2em
-  overflow: hidden
-
-
-.footer .contact
-  float: left
-  margin-right: 3em
-
-
-.footer .contact a
-  color: #8085C1
-
-
-.footer .rss
-  margin-top: 1.1em
-  margin-right: -.2em
-  float: right
-
-
-.footer .rss img
-  border: 0
-
-
-.post pre
-  border: 1px solid #ddd
-  background-color: #eef
-  padding: 0 .4em
-
-.post ul, .post ol
-  margin-left: 1.35em
-
-
-.post code
-  border: 1px solid #ddd
-  background-color: #eef
-  padding: 0 .2em
-
-
-.post pre code
-  border: none
-
-
-.post pre.terminal
-  border: 1px solid #000
-  background-color: #333
-  color: #FFF
-
-
-.post pre.terminal code
-  background-color: #333
-
+.pagination
+  font-size: small
+  a:last-child
+    float: right
