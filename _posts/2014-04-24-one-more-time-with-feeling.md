@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: One More Time With Feeling
 author: olivia
 type: post
