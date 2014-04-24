@@ -1,5 +1,5 @@
 markdown: redcarpet
-paginate: 5
+paginate: 10
 highlighter: true
 title: A + O
 baseurl: http://a-and-o.co
