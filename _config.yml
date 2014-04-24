@@ -18,10 +18,10 @@ prose:
           element: select
           label: Author
           options:
-            - name: Adam
-              value: adam
             - name: Olivia
               value: olivia
+            - name: Adam
+              value: adam
       - name: type
         field:
           element: select
