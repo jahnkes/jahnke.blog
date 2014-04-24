@@ -4,7 +4,7 @@ title: Calm. Change.
 date: '2011-11-15T09:09:00-06:00'
 tags: []
 tumblr_url: http://jahnke.us/post/12836921685/calm-change
-author: olivia
+author: Olivia
 type: post
 ---
 

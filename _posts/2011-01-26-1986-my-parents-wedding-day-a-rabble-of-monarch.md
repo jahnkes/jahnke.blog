@@ -5,7 +5,7 @@ date: '2011-01-26T22:14:00-06:00'
 tags: []
 tumblr_url: http://jahnke.us/post/2952654267/1986-my-parents-wedding-day-a-rabble-of-monarch
 type: photo
-author: adam
+author: Adam
 ---
 
 ![](/media/tumblr_lfnyg8UAXd1qga9s2o1_400.jpg)

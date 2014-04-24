@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Olivia Jahnke
-author: olivia
+author: Olivia
 date: '2012-05-24T08:58:07-05:00'
 tags: []
 tumblr_url: http://jahnke.us/post/23672698940/i-am-a-house-on-a-hill-made-of-only-brick-and-wood

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: olivia
+author: Olivia
 date: "2013-04-17T09:01:00-05:00"
 tags: []
 title: "Ecclesiastes 7:1-14"

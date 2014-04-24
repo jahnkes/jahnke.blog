@@ -5,7 +5,7 @@ date: '2011-08-18T09:30:06-05:00'
 tags: []
 tumblr_url: http://jahnke.us/post/9081491877/im-nobody-who-are-you-are-you-nobody-too
 type: quote
-author: olivia
+author: Olivia
 ---
 
 > I’m nobody! Who are you?<br/>

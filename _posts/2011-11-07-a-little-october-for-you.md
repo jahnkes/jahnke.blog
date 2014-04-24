@@ -5,7 +5,7 @@ date: '2011-11-07T10:19:28-06:00'
 tags: []
 tumblr_url: http://jahnke.us/post/12470807261/a-little-october-for-you
 type: photo
-author: olivia
+author: Olivia
 ---
 
 ![](/media/tumblr_luat0h309G1qfd5w2.jpg)

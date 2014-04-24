@@ -5,7 +5,7 @@ date: '2011-07-21T08:40:00-05:00'
 tags: []
 tumblr_url: http://jahnke.us/post/7885544463/where-i-grew-up-mostly
 type: post
-author: olivia
+author: Olivia
 ---
 
 This past weekend was awesome. My sister, Audra, and her fiancé, Ben, came down to the Ozarks for her birthday weekend. We all crashed at Mom & Dad’s for a couple of nights. It was pretty crazy to be back at the homestead, to sleep in my old bedroom. It’s all so much the same and yet so different. Ben mentioned it feels strange to be back and to be different.

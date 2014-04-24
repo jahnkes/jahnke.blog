@@ -1,6 +1,6 @@
 ---
 layout: post
-author: olivia
+author: Olivia
 date: "2014-02-10T10:05:02-06:00"
 tags: []
 title: "Our sweet baby niece, Cosette"

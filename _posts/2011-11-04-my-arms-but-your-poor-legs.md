@@ -5,7 +5,7 @@ date: '2011-11-04T10:41:50-05:00'
 tags: []
 tumblr_url: http://jahnke.us/post/12329290537/a-hallo-to-all-on-this-fine-and-chilly-morning
 type: post
-author: olivia
+author: Olivia
 ---
 
 A hallo to all on this fine and chilly morning, though I say ‘chilly’ I don’t mean it like I would’ve meant it yesterday when it was downright chilly. This morning it is simply chilly, in a nice way, in a way that makes you think ‘Perhaps this winter thing will be a pleasant thing, yes, perhaps we will bear it just fine’. 

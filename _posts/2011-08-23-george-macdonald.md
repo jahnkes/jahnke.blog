@@ -4,7 +4,7 @@ title: George MacDonald
 date: '2011-08-23T06:17:29-05:00'
 tags: []
 type: quote
-author: adam
+author: Adam
 tumblr_url: http://jahnke.us/post/9290377120/do-you-think-the-work-god-gives-us-to-do-is-never
 ---
 

@@ -5,7 +5,7 @@ date: '2011-10-27T08:17:29-05:00'
 tags: []
 tumblr_url: http://jahnke.us/post/11990993717/autumnal-morning-musings
 type: post
-author: olivia
+author: Olivia
 ---
 
 My mind is full of music and memories this morning; so many memories of music and music of memories in there. Sometimes it seems like there’s a whole other world inside my mind and I could spend hours, or possibly days, simply remembering. 

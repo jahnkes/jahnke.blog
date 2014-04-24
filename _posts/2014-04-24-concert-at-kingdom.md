@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Concert at Kingdom
-author: olivia
+author: Olivia
 type: post
 ---
 

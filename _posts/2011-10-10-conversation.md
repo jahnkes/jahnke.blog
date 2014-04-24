@@ -5,7 +5,7 @@ date: '2011-10-10T17:18:40-05:00'
 tags: []
 tumblr_url: http://jahnke.us/post/11292500065/chelsea-thats-what-it-looks-like-when-you-do
 type: quote
-author: olivia
+author: Olivia
 ---
 
 *Chelsea:* That’s what it looks like when you do coding?! Don’t you get bored?

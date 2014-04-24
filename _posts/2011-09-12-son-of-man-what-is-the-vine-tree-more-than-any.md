@@ -5,7 +5,7 @@ date: '2011-09-12T12:02:09-05:00'
 tags: []
 tumblr_url: http://jahnke.us/post/10130502865/son-of-man-what-is-the-vine-tree-more-than-any
 type: quote
-author: olivia
+author: Olivia
 ---
 
 > Son of man, What is the vine tree more than any tree, or than a branch which is among the trees of the forest?<br/>

@@ -5,7 +5,7 @@ date: '2011-03-24T11:10:35-05:00'
 tags: []
 tumblr_url: http://jahnke.us/post/4065846723/checking-off-my-list
 type: post
-author: olivia
+author: Olivia
 ---
 
 I love lists. 

@@ -5,7 +5,7 @@ date: '2011-12-13T10:31:00-06:00'
 tags: []
 tumblr_url: http://jahnke.us/post/14169686384/before-honor-comes-humility
 type: post
-author: olivia
+author: Olivia
 ---
 
 I love quotes. I have a large collection of quotes that I started gathering when I was in high school reading literature. We had awesome literature books in school. 

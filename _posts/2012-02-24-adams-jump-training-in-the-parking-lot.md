@@ -1,5 +1,5 @@
 ---
-author: olivia
+author: Olivia
 date: '2012-02-24T00:11:29-06:00'
 layout: post
 tags: []

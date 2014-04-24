@@ -5,7 +5,7 @@ date: '2011-12-22T12:19:13-06:00'
 tags: []
 tumblr_url: http://jahnke.us/post/14624517134/penelope-is-three-its-a-party
 type: photo
-author: olivia
+author: Olivia
 ---
 
 ![](/media/tumblr_lwmac7oEDf1qfd5w2.jpg)

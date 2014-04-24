@@ -5,7 +5,7 @@ date: '2011-08-14T23:42:34-05:00'
 tags: []
 tumblr_url: http://jahnke.us/post/8941845224/road-trips
 type: post
-author: adam
+author: Adam
 ---
 
 Two things happened today that made me laugh hard, so I want the whole world to know them.

@@ -1,5 +1,5 @@
 ---
-author: adam
+author: Adam
 date: '2012-09-01T07:00:17-05:00'
 layout: post
 tags: ireland

@@ -4,7 +4,7 @@ title: A guy with knives
 date: '2011-03-03T00:12:48-06:00'
 tags: []
 type: post
-author: olivia
+author: Olivia
 tumblr_url: http://jahnke.us/post/3616128304/a-guy-with-knives
 ---
 

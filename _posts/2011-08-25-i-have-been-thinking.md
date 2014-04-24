@@ -5,7 +5,7 @@ date: '2011-08-25T12:14:00-05:00'
 tags: []
 tumblr_url: http://jahnke.us/post/9381188250/i-have-been-thinking
 type: post
-author: olivia
+author: Olivia
 ---
 
 I do think.

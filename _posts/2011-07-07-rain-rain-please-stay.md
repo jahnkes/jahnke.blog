@@ -5,7 +5,7 @@ date: '2011-07-07T08:23:53-05:00'
 tags: []
 tumblr_url: http://jahnke.us/post/7342000414/rain-rain-please-stay
 type: post
-author: olivia
+author: Olivia
 ---
 
 It is really dark today. It’s 9 o’clock and looks like just before dusk. (Or is dusk the time that I’m thinking is just before dusk?) Mornings like this remind me so much of my childhood. When I was a kid my family worked at a theme park in Branson. We sang anywhere from 4-7 sets a day, 5 days a week. We would get to work at probably 8 am or something, I was a kid, so times weren’t very important. For some reason the mornings I remember the best are the ones when it was really dark and no one was there and we would just sit in our theater and hope no one would show up so that we could skip our show. It never failed though, 1 or 2 people would always come, and then we would sing just for them. Don’t be fooled, I loved singing and entertaining, it was pretty much the only thing I knew how to do, but sometimes when it’s cold or raining and dark you just don’t feel like putting a show on. I love rain during the days though, it’s just so thoughtful. Kind of like staring into a fire. Why do you always want to stare at fires? I don’t know! But they make you think. 

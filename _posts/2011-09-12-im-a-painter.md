@@ -5,7 +5,7 @@ date: '2011-09-12T11:39:00-05:00'
 tags: []
 tumblr_url: http://jahnke.us/post/10129908698/im-a-painter
 type: post
-author: olivia
+author: Olivia
 ---
 
 Most asked post-marriage question is:

@@ -5,7 +5,7 @@ date: '2011-11-29T10:26:10-06:00'
 tags: []
 tumblr_url: http://jahnke.us/post/13502986127/nick-offerman-a-manly-man-not-just-in-character
 type: photo
-author: adam
+author: Adam
 ---
 
 ![](/media/tumblr_lvfkbmFFRN1qga9s2o1_500.jpg)

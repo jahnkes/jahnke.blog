@@ -5,7 +5,7 @@ date: '2011-06-20T08:34:42-05:00'
 tags: []
 tumblr_url: http://jahnke.us/post/6722994756/mondays-were-always-weird
 type: post
-author: olivia
+author: Olivia
 ---
 
 Monday. A new week’s all laid out before us.

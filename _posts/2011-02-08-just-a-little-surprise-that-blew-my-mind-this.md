@@ -5,7 +5,7 @@ date: '2011-02-08T10:41:39-06:00'
 tags: []
 tumblr_url: http://jahnke.us/post/3182407080/just-a-little-surprise-that-blew-my-mind-this
 type: photo
-author: olivia
+author: Olivia
 ---
 
 ![](/media/tumblr_lgb51fCC6Z1qga9s2o1_1280.jpg)

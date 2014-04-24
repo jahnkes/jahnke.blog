@@ -5,7 +5,7 @@ date: '2011-12-07T11:07:06-06:00'
 tags: []
 tumblr_url: http://jahnke.us/post/13877372666/j-r-r-tolkien
 type: quote
-author: olivia
+author: Olivia
 ---
 
 > I sit beside the fire and think<br/>

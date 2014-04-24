@@ -1,6 +1,6 @@
 ---
 layout: post
-author: olivia
+author: Olivia
 date: "2013-03-13T15:20:28-05:00"
 tags: []
 title: Of the Interests in Interests

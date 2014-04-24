@@ -4,7 +4,7 @@ title: I Thessalonians 1:11
 date: '2012-08-08T22:11:27-05:00'
 tags: []
 tumblr_url: http://jahnke.us/post/29031519172/aspire-to-live-quietly-and-to-mind-your-own
-author: adam
+author: Adam
 type: quote
 ---
 

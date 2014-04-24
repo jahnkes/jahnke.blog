@@ -5,7 +5,7 @@ date: '2011-08-09T15:54:41-05:00'
 tags: []
 tumblr_url: http://jahnke.us/post/8705174992/if-i-can-stop-one-heart-from-breaking-i-shall
 type: quote
-author: olivia
+author: Olivia
 ---
 
 > If I can stop one heart from breaking,<br/>

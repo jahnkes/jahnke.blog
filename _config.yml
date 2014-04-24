@@ -19,9 +19,9 @@ prose:
           label: Author
           options:
             - name: Olivia
-              value: olivia
+              value: Olivia
             - name: Adam
-              value: adam
+              value: Adam
       - name: type
         field:
           element: select

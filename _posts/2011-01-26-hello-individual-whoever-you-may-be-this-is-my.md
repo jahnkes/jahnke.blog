@@ -5,7 +5,7 @@ date: '2011-01-26T11:13:11-06:00'
 tags: []
 tumblr_url: http://jahnke.us/post/2942223846/hello-individual-whoever-you-may-be-this-is-my
 type: post
-author: olivia
+author: Olivia
 ---
 
 Hello individual, whoever you may be.

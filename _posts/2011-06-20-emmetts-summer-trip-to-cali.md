@@ -5,7 +5,7 @@ date: '2011-06-20T09:36:00-05:00'
 tags: []
 tumblr_url: http://jahnke.us/post/6724263022/emmetts-summer-trip-to-cali
 type: post
-author: olivia
+author: Olivia
 ---
 
 I’m the youngest of five children. Three of my siblings are brothers, Emmett is my youngest brother, the closest sibling to me in age. When we were kids we couldn’t stand each other. 

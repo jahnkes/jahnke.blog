@@ -5,7 +5,7 @@ date: '2011-01-29T09:47:46-06:00'
 tags: []
 tumblr_url: http://jahnke.us/post/2994319279/im-in-florida-now-it-is-living-up-to-its
 type: post
-author: olivia
+author: Olivia
 ---
 
 I’m in Florida now. It is living up to it’s sunshiny reputation, thus far. 

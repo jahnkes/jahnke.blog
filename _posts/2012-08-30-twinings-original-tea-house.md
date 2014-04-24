@@ -1,5 +1,5 @@
 ---
-author: adam
+author: Adam
 date: '2012-08-30T13:57:22-05:00'
 layout: post
 tags: london

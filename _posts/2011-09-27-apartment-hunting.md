@@ -5,7 +5,7 @@ date: '2011-09-27T15:20:30-05:00'
 tags: []
 tumblr_url: http://jahnke.us/post/10738858214/apartment-hunting-w-bro-n-sis
 type: conversation
-author: olivia
+author: Olivia
 ---
 
 *Ben:* Do your prices vary depending on which floor it’s on?

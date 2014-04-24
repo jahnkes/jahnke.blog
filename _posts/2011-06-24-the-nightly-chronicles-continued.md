@@ -5,7 +5,7 @@ date: '2011-06-24T10:44:00-05:00'
 tags: []
 tumblr_url: http://jahnke.us/post/6869156425/the-nightly-chronicles-continued
 type: post
-author: olivia
+author: Olivia
 ---
 
 It seems that the adjective ‘interesting’ is following us to our beds at night, grabbing the covers and climbing right in, because we cannot have normal nights anymore! It leaves us laughing and yawning during our morning coffee and, you know, perhaps leads towards some blog posts. I don’t know, maybe like this one. Yes! another weird night post! 
