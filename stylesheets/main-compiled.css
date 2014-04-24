@@ -1,5 +1,6 @@
 * {
-  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
   margin: 0;
   padding: 0; }
 
@@ -62,15 +63,21 @@ img {
   left: 50%;
   position: absolute;
   top: 50%;
+  transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
   -webkit-transform: translate(-50%, -50%);
-  -webkit-transition: all 0.5s;
-  -webkit-transition-delay: 0.5s; }
+  transition: all 0.5s;
+  transition-delay: 0.5s; }
   #site-header .letters a {
     color: #333333; }
   #site-header .letters .a, #site-header .letters .and, #site-header .letters .o {
     height: 14rem;
     line-height: 14rem;
     position: absolute;
+    transform: translate(0%, -50%);
+    -moz-transform: translate(0%, -50%);
+    -ms-transform: translate(0%, -50%);
     -webkit-transform: translate(0%, -50%); }
   #site-header .letters .a, #site-header .letters .o {
     text-align: center;
@@ -82,6 +89,9 @@ img {
   #site-header .letters .and {
     margin: -5px 0px 0px 1px;
     position: absolute;
+    transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
     -webkit-transform: translate(-50%, -50%); }
   #site-header .letters .o {
     left: 0%;
@@ -93,10 +103,16 @@ img {
   position: absolute;
   top: 0%;
   width: 1px;
-  -webkit-transition: all 1s; }
+  transition: all 1s; }
   #site-header .bar:nth-of-type(odd) {
+    transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
     -webkit-transform: rotate(45deg); }
   #site-header .bar:nth-of-type(even) {
+    transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
     -webkit-transform: rotate(-45deg); }
   #site-header .bar:nth-of-type(1), #site-header .bar:nth-of-type(6) {
     height: 35rem;
@@ -115,10 +131,16 @@ img {
     margin-left: 7.5rem; }
 #site-header.scrolled .letters {
   opacity: 0;
-  -webkit-transition-delay: 0s; }
+  transition-delay: 0s; }
 #site-header.scrolled .bar:nth-of-type(odd) {
+  transform: rotate(45deg) translate(-200%, -200%);
+  -moz-transform: rotate(45deg) translate(-200%, -200%);
+  -ms-transform: rotate(45deg) translate(-200%, -200%);
   -webkit-transform: rotate(45deg) translate(-200%, -200%); }
 #site-header.scrolled .bar:nth-of-type(even) {
+  transform: rotate(-45deg) translate(-200%, -200%);
+  -moz-transform: rotate(-45deg) translate(-200%, -200%);
+  -ms-transform: rotate(-45deg) translate(-200%, -200%);
   -webkit-transform: rotate(-45deg) translate(-200%, -200%); }
 
 .meta {
