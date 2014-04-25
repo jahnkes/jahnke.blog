@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Untitled
+title: "Colossians 3:1-4"
 author: Olivia
 type: post
 ---
