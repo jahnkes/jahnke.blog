@@ -1,9 +1,9 @@
-markdown: redcarpet
-paginate: 10
-highlighter: true
-title: A + O
 baseurl: http://a-and-o.co
 exclude: [ 'CNAME', 'Gemfile', 'Gemfile.lock', 'script' ]
+highlighter: true
+markdown: redcarpet
+paginate: 10
+title: A + O
 
 # prose.io configuration
 prose:
