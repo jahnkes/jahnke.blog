@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "On beauty, desire, and the existence of God"
 author: Olivia
 type: post
