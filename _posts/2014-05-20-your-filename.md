@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-title: ""
+published: true
+title: Beauty
 author: Olivia
 type: post
 ---
