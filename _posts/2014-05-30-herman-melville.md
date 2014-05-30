@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Herman Melville
 author: Olivia
 type: post
