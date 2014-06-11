@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Conversation
 author: Olivia
 type: post
