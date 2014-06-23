@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "On the whale's ability to maintain temperature"
 author: Olivia
 type: post
