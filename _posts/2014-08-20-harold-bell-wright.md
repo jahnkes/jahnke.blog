@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Harold Bell Wright
 author: Olivia
 type: post
