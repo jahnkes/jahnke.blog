@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: That Enchanted Calm
 author: Olivia
 type: post
@@ -10,4 +10,4 @@ type: post
 
 > Yes, we were now in that enchanted calm which they say lurks at the heart of every commotion. 
 
-– Herman Melville 
+– Herman Melville
