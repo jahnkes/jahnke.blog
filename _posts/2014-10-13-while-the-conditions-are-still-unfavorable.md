@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: While the conditions are still unfavorable
 author: Olivia
 type: post
