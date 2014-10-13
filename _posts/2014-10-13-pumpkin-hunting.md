@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Pumpkin hunting
 author: Olivia
 type: post
