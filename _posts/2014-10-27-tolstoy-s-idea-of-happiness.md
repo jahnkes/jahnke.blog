@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Tolstoy's Idea of Happiness"
 author: Olivia
 type: post
