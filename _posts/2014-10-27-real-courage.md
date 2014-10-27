@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Real Courage
 author: Olivia
 type: post
