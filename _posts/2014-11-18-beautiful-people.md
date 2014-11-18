@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Beautiful People
 author: Olivia
 type: post
