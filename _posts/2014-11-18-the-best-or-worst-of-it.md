@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: The Best or Worst Of It
 author: Olivia
 type: post
