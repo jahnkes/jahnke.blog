@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Where to put the nuts
 author: Olivia
 type: post
@@ -18,6 +18,3 @@ Last night Adam woke me up with a deep sigh. This sigh, mind you, was not just a
 *Adam:* ... "Uhhh... I was trying to... I was trying to... Grind some nuts... And I can't figure out what to put them in."
 
 You can imagine, I'm sure, the amount of laughter that ensued from my side of the bed. Our sleeping brains are such strange places.
-
-
-
