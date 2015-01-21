@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Where to put the nuts
 author: Olivia
 type: post
