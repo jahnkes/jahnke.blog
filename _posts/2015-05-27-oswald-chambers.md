@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oswald
+title: Oswald Chambers
 date: 2015-05-27 11:49:50 -0500
 tags: 
 type: quote
