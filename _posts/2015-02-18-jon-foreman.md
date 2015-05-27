@@ -7,9 +7,9 @@ author: Adam
 type: quote
 ---
 
-> Hallelujah, I’m caving in
-> Hallelujah, I’m in love again
-> Hallelujah, I’m a wretched man
+> Hallelujah, I’m caving in<br/>
+> Hallelujah, I’m in love again<br/>
+> Hallelujah, I’m a wretched man<br/>
 > Hallelujah, every breath is a second chance
 
 – Jon Foreman
