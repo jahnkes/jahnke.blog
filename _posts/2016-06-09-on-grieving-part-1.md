@@ -2,7 +2,7 @@
 layout: post
 author: Olivia
 type: post
-published: false
+published: true
 title: 'On Grieving: Part 1'
 ---
 
