@@ -17,22 +17,22 @@ In the final weeks with my mom, I would sit and just watch her; so much familiar
 
 When someone goes into liver failure they start to lose their mind because they’re being poisoned in their brain, it was something I was really afraid to watch happen. It was very painful to watch, but more painful to think back on than it was when I was experiencing it, I always felt so much love for her, the weight of the moments keeping me grounded. The last time I saw my mom before she started losing her mind I woke her up from a nap to say goodbye to her, and she laid there for a little while and I sat there, looking at her, crying. I told her I had really wanted to share motherhood with her. She said “I know…” And we sat in silence, tears streaming down my face, and then she told me “I hope you don’t feel like your life is worthless because you haven’t been able to be a mother. Motherhood was so important to me and I worry that you’ll feel like life is pointless without it, but it’s not, there are so many things you can do.” It meant so much to me that she said this to me, we hadn’t been able to talk about this so freely before, there was a lot of pain in this subject for both of us. She told me she knew that God would fill the gap that her death would leave in my life and He would send someone else to be that for me. She was very confident of this. Much more than I am. That conversation was a gift to me, a healing salve to my heart. I don’t know when I’ll be healed, but it seems like the beginnings.
 
-*Don't take your eyes off of me,
-don't take your eyes off of me.
-Remember songs that we'd sing,
-remember everything you see.
-Because time can be a blessing or a thief.
-I've realized that all but memory flies away.*
+*Don't take your eyes off of me,  
+don't take your eyes off of me.  
+Remember songs that we'd sing,   
+remember everything you see.  
+Because time can be a blessing or a thief.  
+I've realized that all but memory flies away.*  
 
-*Time, time, time, time just,
-time just flies away*
-
-*Just close your eyes and sing,
-just sing the proudest melody.
-Run hard until you're weak.
-That's how living life is meant to be.*
-
-*Time, time, time, time just,
-time just flies away*
-
+*Time, time, time, time just,  
+time just flies away*  
+  
+*Just close your eyes and sing,  
+just sing the proudest melody.  
+Run hard until you're weak.  
+That's how living life is meant to be.*  
+  
+*Time, time, time, time just,  
+time just flies away*  
+  
 -Emily Hearn
