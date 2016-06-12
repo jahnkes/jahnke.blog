@@ -2,7 +2,7 @@
 layout: post
 author: Olivia
 type: post
-published: false
+published: true
 title: 'On Grieving: Part 2'
 ---
 It cracks me up when I'm reading a self-help book that follows all the self-help guidelines, including Coining A Term, and they spend the first several pages explaining why they're not another self-help book. You can't just *say* things.
