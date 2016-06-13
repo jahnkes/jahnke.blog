@@ -20,7 +20,7 @@ When someone goes into liver failure they start to lose their mind because theyâ
 *Don't take your eyes off of me,  
 don't take your eyes off of me.  
 Remember songs that we'd sing,   
-remember everything you see.  
+remember everything you see.*  
   
 *Because time can be a blessing or a thief.  
 I've realized that all but memory flies away.
