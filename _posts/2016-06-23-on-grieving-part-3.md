@@ -2,7 +2,7 @@
 layout: post
 author: Olivia
 type: post
-published: false
+published: true
 title: 'On Grieving: Part 3'
 ---
 There’s been a strange phenomenon happening inside of my head since my mom died that feels like I’ve been transported back several years. And I think about her and how young she was and it seems so impossible that her body wasted away already. She was only 55 years old, how did her body quit? My parents were always the young and fit, cool parents, everyone thought so, including me. They still played sports with us, they went out on dates on their motorcycle in their leather jackets, just a couple of cool kids out on the town. I liked that a lot about my parents, they were always so happy to go off together to do their thing. You know, adult things, like watching movies in the theater and eating in restaurants, and such. 
