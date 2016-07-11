@@ -2,7 +2,7 @@
 layout: post
 author: Olivia
 type: post
-published: false
+published: true
 title: Survival of the Rookies
 ---
 ![IMG_0852.jpg]({{site.baseurl}}/media/IMG_0852.jpg)
