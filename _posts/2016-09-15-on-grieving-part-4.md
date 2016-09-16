@@ -2,7 +2,7 @@
 layout: post
 author: Olivia
 type: post
-published: false
+published: true
 title: 'On Grieving: Part 4'
 ---
 Grief is a wild beast, there’s no telling where it’ll take you, there’s no telling where you’ve been, because there are literally no words for it. There are certain things humans like to explain, to try to make sense of, but there are some experiences that are so deep you can only explain what’s around it, you can’t get to the heart of what it really is. Grief is like that to me. It’s multi-faceted, death is unfathomable, the weight of a broken heart finds every breath a strain, every day seems impossible. And yet, you make it through. And somehow you laugh again. It’s one of the great mysteries of mankind. How strong is our search for joy, how strong our search for meaning, how strong the life that God breathed into us; it keeps fighting, keeps searching, keeps laughing. 
