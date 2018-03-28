@@ -1,4 +1,4 @@
-baseurl: http://a-and-o.co
+baseurl: https://a-and-o.co
 exclude: [ 'CNAME', 'Gemfile', 'Gemfile.lock', 'script' ]
 paginate: 10
 title: A + O
