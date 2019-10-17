@@ -5,7 +5,7 @@ layout: post
 author: Olivia
 title: Survival of the Rookies
 ---
-![IMG_0852.jpg]({{site.baseurl}}/media/IMG_0852.jpg)
+![IMG_0852.jpg](/media/IMG_0852.jpg)
 We went on a backpacking trip recently, and lest the breathtaking photos lead you astray, I’m going to lay down the deets of truly what went down.
 
 First of all, we went to Colorado which is 13 hours from our house, and since we conveniently have a brother living about a third of the distance from here to there we split the trip into two days. We left quite early in the morning but still didn't start the 3 mile hike to our camp site until around 3 or 4. Rookie mistake. The hike was harder than we thought, made all the harder by a considerable amount of wind and rain which not only limited our usual outpouring of strength but also goodwill. Many of us lost hope, I cannot say that I succumbed to it. I am quite pleased to say that after years and years of completely sucking at climbing mountains (and exertion in general) I am now quite equal to the task. People say the Future is Female but I say the Future is What You Make It. And I don’t think anyone’s ever said that before.

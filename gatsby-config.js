@@ -1,15 +1,53 @@
-const { formatPath } = require("./src/util/formatPath")
+const { formatPath } = require("./src/util/formatPath");
 
 module.exports = {
   siteMetadata: {
-    title: "Adam Jahnke ☕️🏍 (adamyonk)",
-    description: "",
-    siteUrl: "https://adamyonk.com",
-    author: "Adam Jahnke",
+    title: "A + O",
+    description: "The blog of Adam & Olivia Jahnke.",
+    siteUrl: "https://a-and-o.co",
+    author: "Adam & Olivia Jahnke"
   },
   plugins: [
     { resolve: "@rhysforyou/gatsby-plugin-react-helmet-async" },
     { resolve: "gatsby-plugin-styled-jsx" },
+    { resolve: "gatsby-plugin-sitemap" },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        path: `${__dirname}/src/pages`,
+        name: "pages"
+      }
+    },
+    {
+      resolve: "gatsby-transformer-remark",
+      options: {
+        plugins: [
+          {
+            resolve: "gatsby-remark-autolink-headers"
+          },
+          {
+            resolve: "gatsby-remark-prismjs",
+            options: {
+              inlineCodeMarker: "±"
+            }
+          },
+          {
+            resolve: "gatsby-remark-images",
+            options: {
+              backgroundColor: "transparent",
+              linkImagesToOriginal: true,
+              maxWidth: 800
+            }
+          }
+        ]
+      }
+    },
+    {
+      resolve: `gatsby-plugin-netlify-cms`,
+      options: {
+        enableIdentityWidget: true
+      }
+    },
     {
       resolve: "gatsby-plugin-feed-generator",
       options: {
@@ -54,8 +92,8 @@ module.exports = {
             normalize: ({
               query: {
                 site,
-                allMarkdownRemark: { edges },
-              },
+                allMarkdownRemark: { edges }
+              }
             }) => {
               return edges.map(
                 ({
@@ -63,8 +101,8 @@ module.exports = {
                     html,
                     id,
                     fileAbsolutePath,
-                    frontmatter: { link, title, date, updated },
-                  },
+                    frontmatter: { link, title, date, updated }
+                  }
                 }) => {
                   return {
                     date,
@@ -75,77 +113,28 @@ module.exports = {
                     id,
                     title,
                     url:
-                      site.siteMetadata.siteUrl + formatPath(fileAbsolutePath),
-                  }
-                },
-              )
-            },
-          },
-        ],
-      },
-    },
-    {
-      resolve: "gatsby-source-filesystem",
-      options: {
-        path: `${__dirname}/src/pages`,
-        name: "pages",
-      },
-    },
-    {
-      resolve: "gatsby-transformer-remark",
-      options: {
-        plugins: [
-          {
-            resolve: "gatsby-remark-prismjs",
-            options: {
-              inlineCodeMarker: "±",
-            },
-          },
-          {
-            resolve: "gatsby-remark-images",
-            options: {
-              backgroundColor: "transparent",
-              linkImagesToOriginal: true,
-              maxWidth: 800,
-            },
-          },
-        ],
-      },
-    },
+                      site.siteMetadata.siteUrl + formatPath(fileAbsolutePath)
+                  };
+                }
+              );
+            }
+          }
+        ]
+      }
+    }
     // {
-    //   resolve: `gatsby-plugin-webmention`,
+    //   resolve: `@raae/gatsby-remark-oembed`,
     //   options: {
-    //     username: "adamyonk.com",
-    //     identity: {
-    //       github: "adamyonk",
-    //       twitter: "adamyonk"
-    //     },
-    //     mentions: true,
-    //     pingbacks: true,
-    //     // forwardPingbacksAsWebmentions: "https://example.com/endpoint",
-    //     domain: "adamyonk.com",
-    //     token: process.env.WEBMENTIONS_TOKEN
+    //     providers: {
+    //       include: ["Twitter", "Instagram"],
+    //       settings: {
+    //         // Ex. Show all Twitter embeds with the dark theme
+    //         Twitter: { theme: "dark" },
+    //         // Ex. Hide all Instagram comments by default
+    //         Instagram: { hidecaption: true }
+    //       }
+    //     }
     //   }
     // },
-    // {
-    //   resolve: `gatsby-plugin-manifest`,
-    //   options: {
-    //     name: "adamyonk.com",
-    //     short_name: "adamyonk.com",
-    //     start_url: "/",
-    //     background_color: "#073642",
-    //     theme_color: "#93a1a1",
-    //     // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
-    //     // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
-    //     display: "standalone",
-    //     icon: "static/favicon.ico", // This path is relative to the root of the site.
-    //     // An optional attribute which provides support for CORS check.
-    //     // If you do not provide a crossOrigin option, it will skip CORS for manifest.
-    //     // Any invalid keyword or empty string defaults to `anonymous`
-    //     crossOrigin: `use-credentials`,
-    //   },
-    // },
-    // { resolve: "gatsby-plugin-offline" },
-    { resolve: "gatsby-plugin-remove-serviceworker" },
-  ],
-}
+  ]
+};

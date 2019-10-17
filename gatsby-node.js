@@ -1,6 +1,7 @@
 require("@babel/polyfill");
 const path = require("path");
 const { formatPath } = require("./src/util/formatPath");
+const PER_PAGE = 10;
 
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions;
@@ -27,67 +28,72 @@ exports.createPages = ({ actions, graphql }) => {
           }
         }
       }
+      tags: allMarkdownRemark(
+        filter: { frontmatter: { layout: { eq: "post" } } }
+      ) {
+        group(field: frontmatter___tags) {
+          fieldValue
+          totalCount
+        }
+      }
+      authors: allMarkdownRemark(
+        filter: { frontmatter: { layout: { eq: "post" } } }
+      ) {
+        group(field: frontmatter___author) {
+          fieldValue
+          totalCount
+        }
+      }
     }
   `).then(({ errors, data }) => {
     if (errors) {
       return Promise.reject(errors);
     }
 
-    // Generate tag/authors index page
-    const meta = data.pages.edges
-      // Loop through all the posts and gather unique tags/authors
-      .reduce(
-        (
-          a,
-          {
-            node: {
-              frontmatter: { author, tags }
-            }
-          }
-        ) => {
-          if (tags) {
-            for (const tag of tags) {
-              a.tags[tag] = (a.tags[tag] || 0) + 1;
-            }
-          }
-          if (author) {
-            a.authors[author] = (a.authors[author] || 0) + 1;
-          }
-          return a;
-        },
-        { tags: {}, authors: {} }
-      );
-
-    createPage({
-      path: `/tags`,
-      component: path.resolve(`src/templates/tags.js`),
-      context: { tags: meta.tags }
+    // Generate paginated post list
+    const numPages = Math.ceil(data.pages.edges.length / PER_PAGE);
+    Array.from({ length: numPages }).forEach((_, i) => {
+      createPage({
+        path: i === 0 ? "/posts" : `/posts/${i + 1}`,
+        component: path.resolve(`src/templates/posts.js`),
+        context: {
+          limit: PER_PAGE,
+          skip: i * PER_PAGE,
+          numPages,
+          currentPage: i + 1
+        }
+      });
     });
+
     // Create an index page for each individual tag
-    Object.keys(meta.tags).forEach(tag => {
+    data.tags.group.forEach(({ fieldValue: tag }) => {
       createPage({
         path: `/tags/${tag}`,
         component: path.resolve(`src/templates/tag.js`),
         context: { tag }
       });
     });
-
     createPage({
-      path: `/authors`,
-      component: path.resolve(`src/templates/authors.js`),
-      context: { authors: meta.authors }
+      path: `/tags`,
+      component: path.resolve(`src/templates/tags.js`),
+      context: { tags: data.tags.group }
     });
+
     // Create an index page for each individual author
-    Object.keys(meta.authors).forEach(author => {
+    data.authors.group.forEach(({ fieldValue: author }) => {
       createPage({
         path: `/authors/${author}`,
         component: path.resolve(`src/templates/author.js`),
         context: { author }
       });
     });
+    createPage({
+      path: `/authors`,
+      component: path.resolve(`src/templates/authors.js`),
+      context: { authors: data.authors.group }
+    });
 
-    let count = 0;
-    // Generate all pages
+    // Generate all detail pages
     data.pages.edges.forEach(
       ({
         node: {

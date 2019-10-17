@@ -1,14 +1,19 @@
+import { graphql } from "gatsby";
 import React from "react";
 import SEO from "../components/SEO";
 import Link from "gatsby-link";
 import Layout from "../components/layout";
 
-export default ({ pageContext: { tags } }) => {
+export default ({
+  data: {
+    allMarkdownRemark: { group: tags }
+  }
+}) => {
   return (
     <Layout>
-      <SEO title="Posts by Tag" />
+      <SEO title="All Tags" />
       <section>
-        <h1>Posts by Tag</h1>
+        <h1>Tags</h1>
         <ul>
           {tags.map(({ fieldValue: tag, totalCount }) => (
             <li key={tag}>
@@ -22,3 +27,14 @@ export default ({ pageContext: { tags } }) => {
     </Layout>
   );
 };
+
+export const pageQuery = graphql`
+  query TagsQuery {
+    allMarkdownRemark(filter: { frontmatter: { layout: { eq: "post" } } }) {
+      group(field: frontmatter___tags) {
+        fieldValue
+        totalCount
+      }
+    }
+  }
+`;
