@@ -1,8 +1,8 @@
-import React from "react";
-import PropTypes from "prop-types";
-import Header from "./Header";
-import { Helmet } from "react-helmet-async";
-require("prismjs/themes/prism-solarizedlight.css");
+import React from "react"
+import PropTypes from "prop-types"
+import Header from "./Header"
+import { Helmet } from "react-helmet-async"
+require("prismjs/themes/prism-solarizedlight.css")
 
 const TemplateWrapper = ({ children }) => (
   <React.Fragment>
@@ -23,9 +23,7 @@ const TemplateWrapper = ({ children }) => (
       <link href="https://github.com/adamyonk" rel="me" />
     </Helmet>
     <Header />
-    <div id="content">
-    {children}
-    </div>
+    <div id="content">{children}</div>
     <style jsx global>{`
       :root {
         --cyan: #32a198;
@@ -282,10 +280,10 @@ const TemplateWrapper = ({ children }) => (
       }
     `}</style>
   </React.Fragment>
-);
+)
 
 TemplateWrapper.propTypes = {
-  children: PropTypes.node
-};
+  children: PropTypes.node,
+}
 
-export default TemplateWrapper;
+export default TemplateWrapper

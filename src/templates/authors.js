@@ -1,7 +1,7 @@
-import React from "react";
-import SEO from "../components/SEO";
-import Link from "gatsby-link";
-import Layout from "../components/layout";
+import React from "react"
+import SEO from "../components/SEO"
+import Link from "gatsby-link"
+import Layout from "../components/layout"
 
 export default ({ pageContext: { authors } }) => {
   return (
@@ -20,5 +20,5 @@ export default ({ pageContext: { authors } }) => {
         </ul>
       </section>
     </Layout>
-  );
-};
+  )
+}

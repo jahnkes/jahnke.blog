@@ -1,7 +1,7 @@
-import React from "react";
-import Link from "gatsby-link";
-import SEO from "../components/SEO";
-import Layout from "../components/layout";
+import React from "react"
+import Link from "gatsby-link"
+import SEO from "../components/SEO"
+import Layout from "../components/layout"
 
 export default ({ pageContext: { tags } }) => {
   return (
@@ -20,5 +20,5 @@ export default ({ pageContext: { tags } }) => {
         </ul>
       </section>
     </Layout>
-  );
-};
+  )
+}

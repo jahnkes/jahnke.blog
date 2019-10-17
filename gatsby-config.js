@@ -1,11 +1,11 @@
-const { formatPath } = require("./src/util/formatPath");
+const { formatPath } = require("./src/util/formatPath")
 
 module.exports = {
   siteMetadata: {
     title: "A + O",
     description: "The blog of Adam & Olivia Jahnke.",
     siteUrl: "https://a-and-o.co",
-    author: "Adam & Olivia Jahnke"
+    author: "Adam & Olivia Jahnke",
   },
   plugins: [
     { resolve: "@rhysforyou/gatsby-plugin-react-helmet-async" },
@@ -15,38 +15,38 @@ module.exports = {
       resolve: "gatsby-source-filesystem",
       options: {
         path: `${__dirname}/src/pages`,
-        name: "pages"
-      }
+        name: "pages",
+      },
     },
     {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
           {
-            resolve: "gatsby-remark-autolink-headers"
+            resolve: "gatsby-remark-autolink-headers",
           },
           {
             resolve: "gatsby-remark-prismjs",
             options: {
-              inlineCodeMarker: "±"
-            }
+              inlineCodeMarker: "±",
+            },
           },
           {
             resolve: "gatsby-remark-images",
             options: {
               backgroundColor: "transparent",
               linkImagesToOriginal: true,
-              maxWidth: 800
-            }
-          }
-        ]
-      }
+              maxWidth: 800,
+            },
+          },
+        ],
+      },
     },
     {
       resolve: `gatsby-plugin-netlify-cms`,
       options: {
-        enableIdentityWidget: true
-      }
+        enableIdentityWidget: true,
+      },
     },
     {
       resolve: "gatsby-plugin-feed-generator",
@@ -93,8 +93,8 @@ module.exports = {
             normalize: ({
               query: {
                 site,
-                allMarkdownRemark: { edges }
-              }
+                allMarkdownRemark: { edges },
+              },
             }) => {
               return edges.map(
                 ({
@@ -102,8 +102,8 @@ module.exports = {
                     html,
                     id,
                     fileAbsolutePath,
-                    frontmatter: { tags, author, link, title, date, updated }
-                  }
+                    frontmatter: { tags, author, link, title, date, updated },
+                  },
                 }) => {
                   return {
                     author: { name: author },
@@ -116,15 +116,15 @@ module.exports = {
                     tags,
                     title,
                     url:
-                      site.siteMetadata.siteUrl + formatPath(fileAbsolutePath)
-                  };
-                }
-              );
-            }
-          }
-        ]
-      }
-    }
+                      site.siteMetadata.siteUrl + formatPath(fileAbsolutePath),
+                  }
+                },
+              )
+            },
+          },
+        ],
+      },
+    },
     // {
     //   resolve: `@raae/gatsby-remark-oembed`,
     //   options: {
@@ -139,5 +139,5 @@ module.exports = {
     //     }
     //   }
     // },
-  ]
-};
+  ],
+}

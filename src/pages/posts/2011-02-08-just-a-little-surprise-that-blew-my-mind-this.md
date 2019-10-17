@@ -10,6 +10,6 @@ author: Olivia
 
 Just a little surprise.. that blew my mind.
 
-This came in the mail for me today. 
+This came in the mail for me today.
 
 I’m beside myself.

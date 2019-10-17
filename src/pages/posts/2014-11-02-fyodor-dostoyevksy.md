@@ -8,4 +8,4 @@ author: Adam
 
 > As a general rule, people, even the wicked, are much more naïve and simple-hearted than we suppose. And we ourselves are, too.
 
-– Fyodor Dostoyevsky, *The Brothers Karamazov*
+– Fyodor Dostoyevsky, _The Brothers Karamazov_

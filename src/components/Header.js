@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"
 
 export default () => {
   React.useEffect(() => {
@@ -16,32 +16,32 @@ export default () => {
     // };
 
     // This uses scroll position to determine the animation progress:
-    const even = document.querySelectorAll("#logo .bar:nth-of-type(even)");
-    const odd = document.querySelectorAll("#logo .bar:nth-of-type(odd)");
+    const even = document.querySelectorAll("#logo .bar:nth-of-type(even)")
+    const odd = document.querySelectorAll("#logo .bar:nth-of-type(odd)")
 
     const onScroll = event => {
       window.requestAnimationFrame(() => {
-        const end = 400;
-        const to = 200;
-        const percentage = window.scrollY / end;
+        const end = 400
+        const to = 200
+        const percentage = window.scrollY / end
         if (percentage > 100) {
           return
         }
-        const position = to * percentage;
-        const translate = `translate(-${position}%, -${position}%)`;
+        const position = to * percentage
+        const translate = `translate(-${position}%, -${position}%)`
         Array.from(even).forEach(
-          el => (el.style.transform = `rotate(-45deg) ${translate}`)
-        );
+          el => (el.style.transform = `rotate(-45deg) ${translate}`),
+        )
         Array.from(odd).forEach(
-          el => (el.style.transform = `rotate(45deg) ${translate}`)
-        );
-      });
-    };
-    window.addEventListener("scroll", onScroll);
+          el => (el.style.transform = `rotate(45deg) ${translate}`),
+        )
+      })
+    }
+    window.addEventListener("scroll", onScroll)
     return () => {
-      window.removeEventListener("scroll", onScroll);
-    };
-  }, []);
+      window.removeEventListener("scroll", onScroll)
+    }
+  }, [])
 
   return (
     <>
@@ -159,5 +159,5 @@ export default () => {
         }
       `}</style>
     </>
-  );
-};
+  )
+}

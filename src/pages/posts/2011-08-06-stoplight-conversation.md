@@ -6,20 +6,20 @@ date: 2011-08-06T21:07:31-05:00
 author: Adam
 ---
 
-*Stranger:* Hi.
+_Stranger:_ Hi.
 
-*Me:* Hi.
+_Me:_ Hi.
 
-*Stranger:* You wanna plank?
+_Stranger:_ You wanna plank?
 
-*Me:* No.
+_Me:_ No.
 
-*Stranger:* It's where you… Well, if you don't know…
+_Stranger:_ It's where you… Well, if you don't know…
 
-*Me:* No, I know.
+_Me:_ No, I know.
 
-*Stranger:* Oh, so do you want to?
+_Stranger:_ Oh, so do you want to?
 
-*Me:* Still no.
+_Me:_ Still no.
 
-For those of you that don't know, [this is planking](http://en.m.wikipedia.org/wiki/Planking_\(fad\)). Kind of a weird thing to do in the middle of National and Battlefield.
+For those of you that don't know, [this is planking](<http://en.m.wikipedia.org/wiki/Planking_(fad)>). Kind of a weird thing to do in the middle of National and Battlefield.

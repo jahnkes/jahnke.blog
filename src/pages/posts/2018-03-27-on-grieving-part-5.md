@@ -3,7 +3,7 @@ tags: []
 date: 2018-03-27T00:00:00-05:00
 layout: post
 author: Olivia
-title: 'On Grieving: Part 5'
+title: "On Grieving: Part 5"
 ---
 
 The night before my mom died my whole family was sitting on and around her bed, listening to her breathe, and singing every song we knew. And, if you know our family and how we had a bluegrass gospel band for twenty years, you know that’s a whole lot of songs. It was a glorious time, I loved picturing her walking into heaven with the sounds of her children singing. Singing, the thing she taught us to do the best.

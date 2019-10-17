@@ -16,4 +16,4 @@ title: Adam and His Bike
 
 ![](/media/lyn6voVUIx1qfd5w2.jpg)
 
-Photos taken by the awesome [David Fiser](http://davidmatthewfiser.com/). 
+Photos taken by the awesome [David Fiser](http://davidmatthewfiser.com/).

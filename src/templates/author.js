@@ -1,11 +1,11 @@
-import React from "react";
-import SEO from "../components/SEO";
-import { graphql } from "gatsby";
-import PostList from "../components/PostList";
-import Layout from "../components/layout";
+import React from "react"
+import SEO from "../components/SEO"
+import { graphql } from "gatsby"
+import PostList from "../components/PostList"
+import Layout from "../components/layout"
 
 export default ({ data, pageContext: { author } }) => {
-  const { edges: posts = [] } = (data && data.allMarkdownRemark) || {};
+  const { edges: posts = [] } = (data && data.allMarkdownRemark) || {}
   return (
     <Layout>
       <SEO title={`Posts by ${author}`} />
@@ -14,8 +14,8 @@ export default ({ data, pageContext: { author } }) => {
         <PostList posts={posts} />
       </section>
     </Layout>
-  );
-};
+  )
+}
 
 export const tagPageQuery = graphql`
   query AuthorPage($author: String!) {
@@ -40,4 +40,4 @@ export const tagPageQuery = graphql`
       }
     }
   }
-`;
+`

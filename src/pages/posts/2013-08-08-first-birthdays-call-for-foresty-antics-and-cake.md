@@ -30,7 +30,7 @@ My youngest niece had her first birthday last week. Unfortunately she was rather
 
 ![](/media/inline_mr7ujxhCKl1qz4rgp.jpg)
 
-When Kenna thought she was part of Caleb & Savannah’s family. 
+When Kenna thought she was part of Caleb & Savannah’s family.
 
 ![](/media/inline_mr7ukwuUcU1qz4rgp.jpg)
 

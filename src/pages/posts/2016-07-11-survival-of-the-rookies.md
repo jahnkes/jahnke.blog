@@ -5,6 +5,7 @@ layout: post
 author: Olivia
 title: Survival of the Rookies
 ---
+
 ![IMG_0852.jpg](/media/IMG_0852.jpg)
 We went on a backpacking trip recently, and lest the breathtaking photos lead you astray, I’m going to lay down the deets of truly what went down.
 

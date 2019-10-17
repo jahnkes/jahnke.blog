@@ -12,7 +12,7 @@ Fear is a monstrous thing. It is full of darkness and gives birth to more fear. 
 
 It is such a mystery that growth and hope and love can grow from trial but so they do. Trying times force me to ask, “Why?”. In tribulation I have to look to something, someone beyond myself. To the only one who knows the end of things. This is a good position to be in, maybe the best, but I avoid it like a plague. There is more to life than this present darkness, though. Knowing this, could I not refrain from fear of trial? The fearing does no good. It doesn’t allow for any sort of preparation, only darkness and worry.
 
-Faith is a beautiful thing. It can’t be explained, but it must be known. It’s what allows me to say, “It’s going  to be fine,” with absolute confidence. It’s only by trusting God that I can truly cope with the smallest uncertainty. How great a freedom! The absolute worst can happen and there we will still be. Trial, pain, even death, the end of time, and there we will be. Faith is the key to fear, the key to death, the key to life. This is the answer.
+Faith is a beautiful thing. It can’t be explained, but it must be known. It’s what allows me to say, “It’s going to be fine,” with absolute confidence. It’s only by trusting God that I can truly cope with the smallest uncertainty. How great a freedom! The absolute worst can happen and there we will still be. Trial, pain, even death, the end of time, and there we will be. Faith is the key to fear, the key to death, the key to life. This is the answer.
 
 I choose faith. Everyday I must choose faith.
 

@@ -14,4 +14,4 @@ title: Even the Wise Cannot See All Ends
 >
 > Deserves death! I daresay he does. Many that live deserve death. And some die that deserve life. Can you give that to them? Then be not too eager to deal out death in the name of justice, fearing for your own safety. Even the wise cannot see all ends.
 
-– J. R. R. Tolkien, *The Two Towers*
+– J. R. R. Tolkien, _The Two Towers_

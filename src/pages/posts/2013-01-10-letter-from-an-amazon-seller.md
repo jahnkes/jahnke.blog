@@ -8,9 +8,9 @@ title: Letter from an Amazon Seller
 
 > Dear Customer
 >
-> Thank you for your purchase and payment. 
+> Thank you for your purchase and payment.
 >
-> We have shipped your order to you by DHL Global Mail from Thailand. 
+> We have shipped your order to you by DHL Global Mail from Thailand.
 >
 > Normally, it will take about 17-26 business days to arrive your country, so please wait it patiently.
 >

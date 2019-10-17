@@ -1,11 +1,11 @@
-import React from "react";
-import { Helmet } from "react-helmet-async";
-import { graphql } from "gatsby";
-import PostList from "../components/PostList";
-import Layout from "../components/layout";
+import React from "react"
+import { Helmet } from "react-helmet-async"
+import { graphql } from "gatsby"
+import PostList from "../components/PostList"
+import Layout from "../components/layout"
 
 export default ({ data, pageContext: { tag } }) => {
-  const { edges: posts = [] } = (data && data.allMarkdownRemark) || {};
+  const { edges: posts = [] } = (data && data.allMarkdownRemark) || {}
   return (
     <Layout>
       <Helmet title={`Posts tagged "${tag}"`} />
@@ -14,8 +14,8 @@ export default ({ data, pageContext: { tag } }) => {
         <PostList posts={posts} />
       </section>
     </Layout>
-  );
-};
+  )
+}
 
 export const tagPageQuery = graphql`
   query TagPage($tag: String!) {
@@ -38,4 +38,4 @@ export const tagPageQuery = graphql`
       }
     }
   }
-`;
+`

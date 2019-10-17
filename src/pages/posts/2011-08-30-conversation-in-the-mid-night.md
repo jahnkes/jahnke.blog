@@ -6,14 +6,14 @@ date: 2011-08-30T14:09:33-05:00
 author: Olivia
 ---
 
-*Adam:* \*snickering\*
+_Adam:_ \*snickering\*
 
-*Me:* Why are you laughing?
+_Me:_ Why are you laughing?
 
-*Adam:* It's just so funny.
+_Adam:_ It's just so funny.
 
-*Me:* What is?
+_Me:_ What is?
 
-*Adam:* There are so many things to load on the page. So much stuff loading.
+_Adam:_ There are so many things to load on the page. So much stuff loading.
 
-*Me:* Yeah, totally.
+_Me:_ Yeah, totally.

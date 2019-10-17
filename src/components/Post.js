@@ -1,9 +1,9 @@
-import React from "react";
-import Link from "gatsby-link";
-import Date from "./Date";
-import Meta from "./Meta";
-import Tags from "./Tags";
-import { formatPath } from "../util/formatPath";
+import React from "react"
+import Link from "gatsby-link"
+import Date from "./Date"
+import Meta from "./Meta"
+import Tags from "./Tags"
+import { formatPath } from "../util/formatPath"
 
 export default ({
   post: {
@@ -11,8 +11,8 @@ export default ({
     html,
     timeToRead,
     fileAbsolutePath,
-    frontmatter: { updated, date, author, tags, link, title }
-  }
+    frontmatter: { updated, date, author, tags, link, title },
+  },
 }) => {
   return (
     <article>
@@ -47,5 +47,5 @@ export default ({
         }
       `}</style>
     </article>
-  );
-};
+  )
+}

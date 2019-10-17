@@ -6,12 +6,12 @@ layout: post
 title: Trophy Wife
 ---
 
-*Adam:* You’re my little trophy wife. 
+_Adam:_ You’re my little trophy wife.
 
-*Me:* I’m older than you. 
+_Me:_ I’m older than you.
 
-*Adam:* What’s a trophy wife?
+_Adam:_ What’s a trophy wife?
 
-*Me:* It’s when an older man marries a young and gorgeous woman that he uses to get him things. 
+_Me:_ It’s when an older man marries a young and gorgeous woman that he uses to get him things.
 
-*Adam:* You’re not my trophy wife. You’re my beautiful wife.
+_Adam:_ You’re not my trophy wife. You’re my beautiful wife.

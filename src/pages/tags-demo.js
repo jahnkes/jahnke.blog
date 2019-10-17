@@ -1,13 +1,13 @@
-import { graphql } from "gatsby";
-import React from "react";
-import SEO from "../components/SEO";
-import Link from "gatsby-link";
-import Layout from "../components/layout";
+import { graphql } from "gatsby"
+import React from "react"
+import SEO from "../components/SEO"
+import Link from "gatsby-link"
+import Layout from "../components/layout"
 
 export default ({
   data: {
-    allMarkdownRemark: { group: tags }
-  }
+    allMarkdownRemark: { group: tags },
+  },
 }) => {
   return (
     <Layout>
@@ -25,8 +25,8 @@ export default ({
         </ul>
       </section>
     </Layout>
-  );
-};
+  )
+}
 
 export const pageQuery = graphql`
   query TagsQuery {
@@ -37,4 +37,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`

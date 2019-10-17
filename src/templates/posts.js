@@ -1,13 +1,13 @@
-import React from "react";
-import { graphql } from "gatsby";
-import { Helmet } from "react-helmet-async";
-import PostList from "../components/PostList";
-import Layout from "../components/layout";
+import React from "react"
+import { graphql } from "gatsby"
+import { Helmet } from "react-helmet-async"
+import PostList from "../components/PostList"
+import Layout from "../components/layout"
 
 export default ({
   data: {
-    allMarkdownRemark: { edges: posts }
-  }
+    allMarkdownRemark: { edges: posts },
+  },
 }) => {
   return (
     <Layout>
@@ -21,8 +21,8 @@ export default ({
         <PostList posts={posts} />
       </section>
     </Layout>
-  );
-};
+  )
+}
 
 export const pageQuery = graphql`
   query PostsQuery($skip: Int!, $limit: Int!) {
@@ -47,4 +47,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`

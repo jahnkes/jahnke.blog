@@ -6,14 +6,14 @@ layout: post
 title: Conversation
 ---
 
-*Adam:* happy birthday.
+_Adam:_ happy birthday.
 
-*Me:* (pulling myself out of slumber) what did you say?
+_Me:_ (pulling myself out of slumber) what did you say?
 
-*Adam:* what did YOU say?
+_Adam:_ what did YOU say?
 
-*Me:* nothing.
+_Me:_ nothing.
 
-*Adam:* I think I said happy birthday.
+_Adam:_ I think I said happy birthday.
 
-*Me:* I think so too.
+_Me:_ I think so too.

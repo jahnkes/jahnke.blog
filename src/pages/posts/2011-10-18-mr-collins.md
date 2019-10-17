@@ -10,4 +10,4 @@ author: Olivia
 
 – Mr. Collins
 
-The most unwanted phrase to hear a guest or host say during a meal. I know this from personal experience. 
+The most unwanted phrase to hear a guest or host say during a meal. I know this from personal experience.
