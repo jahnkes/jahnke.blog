@@ -71,7 +71,7 @@ module.exports = {
             query: `
               {
                 allMarkdownRemark(
-                  filter: { frontmatter: { layout: { eq: "post" }, published: { eq: true } } },
+                  filter: { frontmatter: { layout: { eq: "post" } } },
                   sort: { order: DESC, fields: [frontmatter___date] }
                 ) {
                   edges {
@@ -81,6 +81,7 @@ module.exports = {
                       fileAbsolutePath
                       frontmatter {
                         date
+                        author
                         updated
                         title
                       }
@@ -101,16 +102,18 @@ module.exports = {
                     html,
                     id,
                     fileAbsolutePath,
-                    frontmatter: { link, title, date, updated }
+                    frontmatter: { tags, author, link, title, date, updated }
                   }
                 }) => {
                   return {
+                    author: { name: author },
                     date,
                     date_modified: updated,
                     date_published: date,
                     external_url: link,
                     html,
                     id,
+                    tags,
                     title,
                     url:
                       site.siteMetadata.siteUrl + formatPath(fileAbsolutePath)

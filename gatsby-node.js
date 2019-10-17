@@ -28,6 +28,7 @@ exports.createPages = ({ actions, graphql }) => {
           }
         }
       }
+
       tags: allMarkdownRemark(
         filter: { frontmatter: { layout: { eq: "post" } } }
       ) {
@@ -36,6 +37,7 @@ exports.createPages = ({ actions, graphql }) => {
           totalCount
         }
       }
+
       authors: allMarkdownRemark(
         filter: { frontmatter: { layout: { eq: "post" } } }
       ) {
