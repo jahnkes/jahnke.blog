@@ -79,7 +79,7 @@ export default () => {
           transition-property: opacity;
         }
         .letters a {
-          color: #333;
+          color: var(--foreground);
         }
         .letters .a,
         .letters .and,
@@ -109,7 +109,7 @@ export default () => {
           position: absolute;
         }
         .bar {
-          background-color: #333;
+          background-color: var(--foreground);
           height: 30rem;
           left: 50%;
           position: absolute;
@@ -138,7 +138,7 @@ export default () => {
           margin-left: -7.5rem;
         }
         .bar:nth-of-type(5) {
-          background-color: #e9a734;
+          background-color: var(--yellow);
           margin-left: 12rem;
         }
         .bar:nth-of-type(2) {

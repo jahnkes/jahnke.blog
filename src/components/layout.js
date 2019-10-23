@@ -6,7 +6,7 @@ require("prismjs/themes/prism-solarizedlight.css")
 
 const TemplateWrapper = ({ children }) => (
   <React.Fragment>
-    <Helmet title="Adam Jahnke ☕️🏍 (adamyonk)">
+    <Helmet title="Adam & Olivia Jahnke">
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <link
         href="https://fonts.googleapis.com/css?family=Fira+Code|Fira+Sans:400,400i&display=fallback"
@@ -39,6 +39,7 @@ const TemplateWrapper = ({ children }) => (
 
         --background: #ffffff;
         --foreground: var(--primary);
+
         --link: var(--cyan);
         --link-hover: var(--tertiary);
 
@@ -46,14 +47,16 @@ const TemplateWrapper = ({ children }) => (
         --monospace: monospace;
       }
 
-      // @media (prefers-color-scheme: light) {
-      //   :root {
-      //     --background: #333333;
-      //     --foreground: #ffffff;
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --primary: #dddddd;
+          --secondary: #bbbbbb;
+          --tertiary: #999999;
 
-      //     --link: var(--yellow);
-      //   }
-      // }
+          --background: #000000;
+          --foreground: var(--primary);
+        }
+      }
 
       body {
         background-color: var(--background);
@@ -123,6 +126,7 @@ const TemplateWrapper = ({ children }) => (
         color: var(--secondary);
         font-size: 1.2em;
         font-weight: 200;
+        margin: 0;
         padding-left: 1em;
       }
 
