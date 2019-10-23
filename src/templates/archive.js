@@ -1,7 +1,6 @@
 import React from "react";
 import SEO from "../components/SEO";
 import Layout from "../components/layout";
-import PostList from "../components/PostList";
 import Link from "gatsby-link";
 import Date from "../components/Date";
 import Meta from "../components/Meta";
