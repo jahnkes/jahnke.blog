@@ -1,6 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import Header from "./Header"
+import Footer from "./Footer"
 import { Helmet } from "react-helmet-async"
 require("prismjs/themes/prism-solarizedlight.css")
 
@@ -24,6 +25,7 @@ const TemplateWrapper = ({ children }) => (
     </Helmet>
     <Header />
     <div id="content">{children}</div>
+    <Footer />
     <style jsx global>{`
       :root {
         --cyan: #32a198;
