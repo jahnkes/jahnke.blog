@@ -78,6 +78,19 @@ const TemplateWrapper = ({ children }) => (
         background-color: var(--yellow);
       }
 
+      /* This is for gatsby-remark-autolink-headers */
+      .anchor {
+        border: none;
+        text-decoration: none;
+      }
+      .anchor:hover {
+        border: none;
+        text-decoration: none;
+      }
+      .anchor svg path {
+        fill: var(--primary);
+      }
+
       h1,
       h2,
       h3,

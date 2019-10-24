@@ -5,7 +5,7 @@ import Date from "../components/Date"
 import Meta from "../components/Meta"
 import Layout from "../components/layout"
 
-export default ({
+const PageTemplage = ({
   data: {
     markdownRemark: {
       html,
@@ -17,7 +17,6 @@ export default ({
     <Layout>
       <article>
         <Helmet title={`${title} | Adam Jahnke`} />
-        <h1>{title}</h1>
         <div dangerouslySetInnerHTML={{ __html: html }} />
         {!!date && (
           <Meta>
@@ -49,3 +48,5 @@ export const pageQuery = graphql`
     }
   }
 `
+
+export default PageTemplage
