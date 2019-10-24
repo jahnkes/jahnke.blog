@@ -1,5 +1,5 @@
 import React from "react"
-import { Helmet } from "react-helmet-async"
+import SEO from "../components/SEO"
 import { graphql } from "gatsby"
 import Date from "../components/Date"
 import Meta from "../components/Meta"
@@ -16,7 +16,7 @@ const PageTemplage = ({
   return (
     <Layout>
       <article>
-        <Helmet title={`${title} | Adam Jahnke`} />
+        <SEO title={title} />
         <div dangerouslySetInnerHTML={{ __html: html }} />
         {!!date && (
           <Meta>

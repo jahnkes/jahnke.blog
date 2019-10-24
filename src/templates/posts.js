@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-import { Helmet } from "react-helmet-async"
+import SEO from "../components/SEO"
 import PostList from "../components/PostList"
 import Layout from "../components/layout"
 
@@ -12,12 +12,7 @@ const PostsTemplate = ({
   return (
     <Layout>
       <section className="section">
-        <Helmet>
-          <script
-            async
-            src="https://identity.netlify.com/v1/netlify-identity-widget.js"
-          />
-        </Helmet>
+        <SEO />
         <PostList posts={posts} />
       </section>
     </Layout>

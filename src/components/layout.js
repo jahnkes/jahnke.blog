@@ -7,7 +7,7 @@ require("prismjs/themes/prism-solarizedlight.css")
 
 const TemplateWrapper = ({ children }) => (
   <React.Fragment>
-    <Helmet title="Adam & Olivia Jahnke">
+    <Helmet>
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <link
         href="https://fonts.googleapis.com/css?family=Fira+Code|Fira+Sans:400,400i&display=fallback"
