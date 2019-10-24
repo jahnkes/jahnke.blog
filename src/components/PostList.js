@@ -1,7 +1,7 @@
 import React from "react"
 import Post from "./Post"
 
-export default ({ posts }) => (
+const PostList = ({ posts }) => (
   <ul className="posts">
     {posts.map(({ node: post }) => (
       <li key={post.id}>
@@ -25,3 +25,5 @@ export default ({ posts }) => (
     `}</style>
   </ul>
 )
+
+export default PostList

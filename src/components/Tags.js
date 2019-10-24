@@ -8,7 +8,7 @@ const Tag = ({ name }) => (
   </>
 )
 
-export default ({ tags = [] }) =>
+const Tags = ({ tags = [] }) =>
   tags &&
   !!tags.length && (
     <>
@@ -24,3 +24,5 @@ export default ({ tags = [] }) =>
       ))}
     </>
   )
+
+export default Tags

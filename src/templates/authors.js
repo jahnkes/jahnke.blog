@@ -3,7 +3,7 @@ import SEO from "../components/SEO"
 import Link from "gatsby-link"
 import Layout from "../components/layout"
 
-export default ({ pageContext: { authors } }) => {
+const AuthorsTemplate = ({ pageContext: { authors } }) => {
   return (
     <Layout>
       <SEO title="Posts by Author" />
@@ -22,3 +22,5 @@ export default ({ pageContext: { authors } }) => {
     </Layout>
   )
 }
+
+export default AuthorsTemplate

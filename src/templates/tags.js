@@ -3,7 +3,7 @@ import Link from "gatsby-link"
 import SEO from "../components/SEO"
 import Layout from "../components/layout"
 
-export default ({ pageContext: { tags } }) => {
+const TagsTemplate = ({ pageContext: { tags } }) => {
   return (
     <Layout>
       <SEO title="Posts by Tag" />
@@ -22,3 +22,5 @@ export default ({ pageContext: { tags } }) => {
     </Layout>
   )
 }
+
+export default TagsTemplate

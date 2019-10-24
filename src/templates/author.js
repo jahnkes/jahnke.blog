@@ -4,7 +4,7 @@ import { graphql } from "gatsby"
 import PostList from "../components/PostList"
 import Layout from "../components/layout"
 
-export default ({ data, pageContext: { author } }) => {
+const AuthorTemplate = ({ data, pageContext: { author } }) => {
   const { edges: posts = [] } = (data && data.allMarkdownRemark) || {}
   return (
     <Layout>
@@ -41,3 +41,5 @@ export const tagPageQuery = graphql`
     }
   }
 `
+
+export default AuthorTemplate

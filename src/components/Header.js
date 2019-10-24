@@ -1,6 +1,6 @@
 import React from "react"
 
-export default () => {
+const Header = () => {
   React.useEffect(() => {
     // This plays the animation at a certain threshold
     // (there is also some CSS to un-comment below)
@@ -161,3 +161,5 @@ export default () => {
     </>
   )
 }
+
+export default Header

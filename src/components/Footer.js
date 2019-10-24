@@ -1,13 +1,10 @@
-import React from "react";
+import React from "react"
 
-export default () => {
+const Footer = () => {
   return (
     <>
       <nav>
-        <a
-          href="/archive"
-          title="View the Archive"
-        >
+        <a href="/archive" title="View the Archive">
           View the Archive
         </a>
       </nav>
@@ -28,5 +25,7 @@ export default () => {
         }
       `}</style>
     </>
-  );
-};
+  )
+}
+
+export default Footer

@@ -1,6 +1,6 @@
 import React from "react"
 
-export default ({ children }) => (
+const Meta = ({ children }) => (
   <>
     <div className="post-meta">{children}</div>
     <style jsx>{`
@@ -11,3 +11,5 @@ export default ({ children }) => (
     `}</style>
   </>
 )
+
+export default Meta

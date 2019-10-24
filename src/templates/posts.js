@@ -4,7 +4,7 @@ import { Helmet } from "react-helmet-async"
 import PostList from "../components/PostList"
 import Layout from "../components/layout"
 
-export default ({
+const PostsTemplate = ({
   data: {
     allMarkdownRemark: { edges: posts },
   },
@@ -48,3 +48,5 @@ export const pageQuery = graphql`
     }
   }
 `
+
+export default PostsTemplate

@@ -4,7 +4,7 @@ import SEO from "../components/SEO"
 import PostList from "../components/PostList"
 import Layout from "../components/layout"
 
-export default ({
+const Index = ({
   data: {
     allMarkdownRemark: { edges: posts },
   },
@@ -40,3 +40,5 @@ export const pageQuery = graphql`
     }
   }
 `
+
+export default Index

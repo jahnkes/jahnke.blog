@@ -4,7 +4,7 @@ import SEO from "../components/SEO"
 import Link from "gatsby-link"
 import Layout from "../components/layout"
 
-export default ({
+const Tags = ({
   data: {
     allMarkdownRemark: { group: tags },
   },
@@ -38,3 +38,5 @@ export const pageQuery = graphql`
     }
   }
 `
+
+export default Tags

@@ -5,7 +5,7 @@ import Meta from "./Meta"
 import Tags from "./Tags"
 import { formatPath } from "../util/formatPath"
 
-export default ({
+const Post = ({
   post: {
     excerpt,
     html,
@@ -49,3 +49,5 @@ export default ({
     </article>
   )
 }
+
+export default Post
