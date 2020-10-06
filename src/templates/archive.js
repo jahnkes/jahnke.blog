@@ -28,7 +28,7 @@ const ArchiveTemplate = ({ pageContext: { buckets } }) => {
                     <li key={id}>
                       <Link to={formatPath(fileAbsolutePath)}>{title}</Link>
                       <Meta>
-                        Posted by {author} on <Date date={date} />{" "}
+                        Posted by {author.name} on <Date date={date} />{" "}
                       </Meta>
                     </li>
                   ),

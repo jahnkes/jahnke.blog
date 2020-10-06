@@ -3,6 +3,7 @@ tags: []
 layout: post
 title: Art revolution
 date: 2011-06-12T17:58:25-05:00
+author: olivia
 ---
 
 Lately I’ve been having long talks with Adam. Weekends are good for that! I’ve never had restful weekends, and I’m growing to really enjoy them.

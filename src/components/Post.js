@@ -24,7 +24,10 @@ const Post = ({
         )}
       </h1>
       <Meta>
-        <img alt={author.name} src={`https://www.gravatar.com/avatar/${author.gravatar}?s=80`} />
+        <img
+          alt={author.name}
+          src={`https://www.gravatar.com/avatar/${author.gravatar}?s=80`}
+        />
         <div>
           Posted by <Link to={`/authors/${author.id}`}>{author.name}</Link> on{" "}
           <Date date={date} />{" "}

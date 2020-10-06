@@ -30,7 +30,11 @@ export const tagPageQuery = graphql`
           excerpt(format: HTML, pruneLength: 400)
           frontmatter {
             date
-            author { name }
+            author {
+              name
+              gravatar
+              id
+            }
             tags
             title
           }
