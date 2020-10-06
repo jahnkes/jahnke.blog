@@ -34,7 +34,7 @@ export const pageQuery = graphql`
           excerpt(format: HTML, pruneLength: 400)
           frontmatter {
             date
-            author
+            author { name }
             tags
             title
           }

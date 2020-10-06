@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: Emily Dickinson
 date: 2011-08-18T09:30:06-05:00
-author: Olivia
+author: olivia
 ---
 
 > I’m nobody! Who are you?<br/>

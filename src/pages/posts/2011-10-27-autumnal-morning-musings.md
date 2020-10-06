@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: Autumnal morning musings
 date: 2011-10-27T08:17:29-05:00
-author: Olivia
+author: olivia
 ---
 
 My mind is full of music and memories this morning; so many memories of music and music of memories in there. Sometimes it seems like there’s a whole other world inside my mind and I could spend hours, or possibly days, simply remembering.

@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2013-08-14T10:17:23-05:00
 layout: post
 title: Emerson on Compensation

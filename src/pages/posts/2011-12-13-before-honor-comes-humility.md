@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: Before honor comes humility
 date: 2011-12-13T10:31:00-06:00
-author: Olivia
+author: olivia
 ---
 
 I love quotes. I have a large collection of quotes that I started gathering when I was in high school reading literature. We had awesome literature books in school.

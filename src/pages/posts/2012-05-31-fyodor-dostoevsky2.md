@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2012-05-31T11:14:19-05:00
 layout: post
 title: Fyodor Dostoevsky

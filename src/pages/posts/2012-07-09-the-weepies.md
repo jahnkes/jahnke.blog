@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2012-07-09T08:04:47-05:00
 layout: post
 title: The Weepies

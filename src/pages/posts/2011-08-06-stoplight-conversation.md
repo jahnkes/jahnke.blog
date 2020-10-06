@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: Stoplight Conversation
 date: 2011-08-06T21:07:31-05:00
-author: Adam
+author: adam
 ---
 
 _Stranger:_ Hi.

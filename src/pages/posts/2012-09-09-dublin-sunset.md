@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Adam
+author: adam
 date: 2012-09-09T14:17:52-05:00
 layout: post
 title: Dublin Sunset

@@ -4,7 +4,9 @@ import { graphql } from "gatsby"
 import Post from "../components/Post"
 import Layout from "../components/layout"
 
-export default ({ data: { markdownRemark: post } }) => {
+export default ({ data }) => {
+  console.log(data)
+  const { markdownRemark: post } = data
   return (
     <Layout>
       <SEO title={`${(post.timeToRead, post.frontmatter.title)}`} />
@@ -21,7 +23,11 @@ export const pageQuery = graphql`
       frontmatter {
         date
         link
-        author
+        author {
+          id
+          name
+          gravatar
+        }
         tags
         title
       }

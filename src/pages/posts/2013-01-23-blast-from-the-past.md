@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2013-01-23T16:11:00-06:00
 layout: post
 title: Blast from the Past

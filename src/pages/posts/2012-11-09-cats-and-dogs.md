@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2012-11-09T10:00:00-06:00
 layout: post
 title: Cats and Dogs

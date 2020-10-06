@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Adam
+author: adam
 date: 2012-09-08T10:28:35-05:00
 layout: post
 title: Location, Location, Location

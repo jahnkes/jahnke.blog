@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2013-04-26T11:35:00-05:00
 layout: post
 title: The Glimpse

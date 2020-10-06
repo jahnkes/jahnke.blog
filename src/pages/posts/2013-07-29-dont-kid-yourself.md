@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2013-07-29T09:37:03-05:00
 layout: post
 title: Don't Kid Yourself

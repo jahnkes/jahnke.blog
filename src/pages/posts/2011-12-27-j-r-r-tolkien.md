@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2011-12-27T09:50:31-06:00
 layout: post
 title: J. R. R. Tolkien

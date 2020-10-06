@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: Calm. Change.
 date: 2011-11-15T09:09:00-06:00
-author: Olivia
+author: olivia
 ---
 
 This morning I am nonchalantly sipping a cup of Tazo Calm tea made for me by my cheery husband. It has local honey in it, which, if I may gush, is making everything lovely and sweet. It seems like an ideal winterish morning, though it’s much too warm to be considered winter in these parts.

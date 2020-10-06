@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: Lord Alfred Tennyson
 date: 2011-11-14T10:08:28-06:00
-author: Olivia
+author: olivia
 ---
 
 > Forgive these wild and wandering cries,<br/>

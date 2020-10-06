@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2012-06-17T17:53:08-05:00
 layout: post
 title: The Unbearable Compliment

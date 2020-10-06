@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: I have been thinking
 date: 2011-08-25T12:14:00-05:00
-author: Olivia
+author: olivia
 ---
 
 I do think.

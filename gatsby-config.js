@@ -4,13 +4,24 @@ module.exports = {
   siteMetadata: {
     title: "Adam & Olivia Jahnke",
     description: "The blog of Adam & Olivia Jahnke.",
-    siteUrl: "https://a-and-o.co",
+    siteUrl: "https://jahnke.blog",
     author: "Adam & Olivia Jahnke",
   },
+  // mapping: {
+  //   "MarkdownRemark.frontmatter.author": "AuthorsJson",
+  // },
   plugins: [
     { resolve: "@rhysforyou/gatsby-plugin-react-helmet-async" },
     { resolve: "gatsby-plugin-styled-jsx" },
     { resolve: "gatsby-plugin-sitemap" },
+    { resolve: "gatsby-transformer-json" },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        path: `${__dirname}/src/data/authors.json`,
+        name: "authors",
+      },
+    },
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -81,7 +92,7 @@ module.exports = {
                       fileAbsolutePath
                       frontmatter {
                         date
-                        author
+                        author { name }
                         updated
                         title
                       }
@@ -102,11 +113,11 @@ module.exports = {
                     html,
                     id,
                     fileAbsolutePath,
-                    frontmatter: { tags, author, link, title, date, updated },
+                    frontmatter: { tags, author: { name }, link, title, date, updated },
                   },
                 }) => {
                   return {
-                    author: { name: author },
+                    author: { name },
                     date,
                     date_modified: updated,
                     date_published: date,

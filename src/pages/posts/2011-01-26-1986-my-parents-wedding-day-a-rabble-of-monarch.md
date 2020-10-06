@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: 1986 - My parents wedding day
 date: 2011-01-26T22:14:00-06:00
-author: Adam
+author: adam
 ---
 
 ![](/media/lfnyg8UAXd1qga9s2o1_400.jpg)

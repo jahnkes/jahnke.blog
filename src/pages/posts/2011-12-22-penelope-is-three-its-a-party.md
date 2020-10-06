@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: Penelope is three, it's a party
 date: 2011-12-22T12:19:13-06:00
-author: Olivia
+author: olivia
 ---
 
 ![](/media/lwmac7oEDf1qfd5w2.jpg)

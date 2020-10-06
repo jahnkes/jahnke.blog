@@ -3,7 +3,7 @@ tags: []
 layout: post
 date: 2015-02-18 10:52:00 -0600
 title: "Jon Foreman"
-author: Adam
+author: adam
 ---
 
 > Hallelujah, I’m caving in<br/>

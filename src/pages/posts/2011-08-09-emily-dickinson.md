@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: Emily Dickinson
 date: 2011-08-09T15:54:41-05:00
-author: Olivia
+author: olivia
 ---
 
 > If I can stop one heart from breaking,<br/>

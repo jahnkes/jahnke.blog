@@ -24,14 +24,23 @@ const Post = ({
         )}
       </h1>
       <Meta>
-        Posted by {author} on <Date date={date} />{" "}
-        {!!tags.length && (
-          <>
-            under <Tags tags={tags} />
-          </>
-        )}
+        <img alt={author.name} src={`https://www.gravatar.com/avatar/${author.gravatar}?s=80`} />
+        <div>
+          Posted by <Link to={`/authors/${author.id}`}>{author.name}</Link> on{" "}
+          <Date date={date} />{" "}
+          {!!tags.length && (
+            <>
+              under <Tags tags={tags} />
+            </>
+          )}
+          {timeToRead && (
+            <>
+              <br />
+              {timeToRead} minute read
+            </>
+          )}
+        </div>
       </Meta>
-      {timeToRead && <Meta>{timeToRead} minute read</Meta>}
       <div dangerouslySetInnerHTML={{ __html: html || excerpt }} />
       {excerpt && (
         <small>

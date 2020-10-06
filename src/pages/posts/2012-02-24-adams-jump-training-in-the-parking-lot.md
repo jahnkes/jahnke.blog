@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2012-02-24T00:11:29-06:00
 layout: post
 title: Adam's Jump Training In the Parking Lot

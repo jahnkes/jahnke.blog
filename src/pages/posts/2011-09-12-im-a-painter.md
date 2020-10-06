@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: I'm a painter
 date: 2011-09-12T11:39:00-05:00
-author: Olivia
+author: olivia
 ---
 
 Most asked post-marriage question is:

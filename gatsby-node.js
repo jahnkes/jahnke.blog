@@ -1,4 +1,5 @@
 require("@babel/polyfill")
+const config = require("./gatsby-config.js")
 const path = require("path")
 const { format, parseISO } = require("date-fns")
 const { formatPath } = require("./src/util/formatPath")
@@ -20,7 +21,11 @@ exports.createPages = ({ actions, graphql }) => {
             fileAbsolutePath
             id
             frontmatter {
-              author
+              author {
+                id
+                name
+                gravatar
+              }
               tags
               layout
               date
@@ -39,7 +44,11 @@ exports.createPages = ({ actions, graphql }) => {
             fileAbsolutePath
             id
             frontmatter {
-              author
+              author {
+                id
+                name
+                gravatar
+              }
               tags
               date
               title
@@ -60,7 +69,7 @@ exports.createPages = ({ actions, graphql }) => {
       authors: allMarkdownRemark(
         filter: { frontmatter: { layout: { eq: "post" } } }
       ) {
-        group(field: frontmatter___author) {
+        group(field: frontmatter___author___id) {
           fieldValue
           totalCount
         }
@@ -162,6 +171,10 @@ exports.createSchemaCustomization = ({ actions: { createTypes } }) => {
       tags: [String]
       updated: String
       published: Boolean
+      author: AuthorsJson @link
+    }
+    type AuthorsJson implements Node {
+      posts: [MarkdownRemark] @link(by: "frontmatter.author.id", from: "id")
     }
   `
   createTypes(typeDefs)

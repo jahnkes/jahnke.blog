@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2013-08-08T08:24:00-05:00
 layout: post
 title: First Birthdays Call for Foresty Antics and Cake

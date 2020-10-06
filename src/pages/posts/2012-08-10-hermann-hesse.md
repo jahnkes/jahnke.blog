@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2012-08-10T08:47:19-05:00
 layout: post
 title: Hermann Hesse

@@ -2,7 +2,7 @@
 tags: []
 date: 2016-09-12T00:00:00-05:00
 layout: post
-author: Olivia
+author: olivia
 title: A Sweat-drop In The Bucket
 ---
 

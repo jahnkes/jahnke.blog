@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: Mondays were always weird
 date: 2011-06-20T08:34:42-05:00
-author: Olivia
+author: olivia
 ---
 
 Monday. A new week’s all laid out before us.

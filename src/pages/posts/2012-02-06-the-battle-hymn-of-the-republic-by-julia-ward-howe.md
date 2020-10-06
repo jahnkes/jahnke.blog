@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Adam
+author: adam
 date: 2012-02-06T16:55:09-06:00
 layout: post
 title: The Battle Hymn of the Republic by Julia Ward Howe

@@ -2,7 +2,7 @@
 tags: []
 date: 2018-04-02T00:00:00-05:00
 layout: post
-author: Adam
+author: adam
 title: "Isolation"
 ---
 

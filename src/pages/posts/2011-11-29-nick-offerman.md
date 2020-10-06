@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: Nick Offerman
 date: 2011-11-29T10:26:10-06:00
-author: Adam
+author: adam
 ---
 
 ![](/media/lvfkbmFFRN1qga9s2o1_500.jpg)

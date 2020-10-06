@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2013-01-23T16:02:00-06:00
 layout: post
 title: Another Gem

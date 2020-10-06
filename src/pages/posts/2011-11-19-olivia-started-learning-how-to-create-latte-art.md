@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: Latte Art
 date: 2011-11-19T00:33:00-06:00
-author: Adam
+author: adam
 ---
 
 Olivia started learning how to create latte art today at [The Hub](http://insidethehub.com/). These are pictures, in order, of all of her attempts. If you were thinking, “pretty amazing,” you were right.

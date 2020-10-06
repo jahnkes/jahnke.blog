@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2012-08-01T12:08:20-05:00
 layout: post
 title: Willa Cather

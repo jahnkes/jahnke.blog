@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2012-01-18T16:04:07-06:00
 layout: post
 title: Curiosity, Fog, and Kenna

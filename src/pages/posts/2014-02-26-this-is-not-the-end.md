@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Adam
+author: adam
 date: 2014-02-26T07:52:04-06:00
 layout: post
 title: This Is Not the End

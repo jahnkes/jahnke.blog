@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: Checking off my list
 date: 2011-03-24T11:10:35-05:00
-author: Olivia
+author: olivia
 ---
 
 I love lists.

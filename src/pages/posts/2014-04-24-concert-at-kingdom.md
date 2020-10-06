@@ -3,7 +3,7 @@ tags: []
 date: 2014-04-24T00:00:00-05:00
 layout: post
 title: Concert at Kingdom
-author: Olivia
+author: olivia
 ---
 
 ![](/media/IMG_1597%20copy.jpg)

@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Adam
+author: adam
 date: 2012-11-30T00:09:16-06:00
 layout: post
 title: Sori Yanagi

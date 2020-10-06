@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2012-11-22T22:35:56-06:00
 layout: post
 title: Love is a Weed

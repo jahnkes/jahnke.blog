@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2012-04-17T17:06:45-05:00
 layout: post
 title: Jon Foreman

@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2012-05-05T10:52:19-05:00
 layout: post
 title: Trophy Wife

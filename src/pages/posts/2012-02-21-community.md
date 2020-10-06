@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2012-02-21T10:14:27-06:00
 layout: post
 title: Community

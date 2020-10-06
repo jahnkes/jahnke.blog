@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: It's the deep breath before the plunge.
 date: 2011-04-07T08:48:00-05:00
-author: Olivia
+author: olivia
 ---
 
 Today is everything I imagine an April day to be. Uncertain. Trying the warm weather on for size. Spring is such a wondrous time of year. Every day I examine the trees, hoping to see some leaves sprouting out, and they do! That’s what’s so cool! Green, from nothing. God makes beautiful things out of the dust, as Michael Gungor reminds us… whenever we listen to that song. I was thinking yesterday about how the tree grows the seeds first, and lets them go, and then the leaves. They take care of the years to come before they let their canopies grow. I like it. It fascinates me.

@@ -2,7 +2,7 @@
 tags: []
 date: 2016-06-23T00:00:00-05:00
 layout: post
-author: Olivia
+author: olivia
 title: "On Grieving: Part 3"
 ---
 

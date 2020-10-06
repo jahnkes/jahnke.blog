@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Adam
+author: adam
 date: 2013-01-10T08:50:12-06:00
 layout: post
 title: Letter from an Amazon Seller

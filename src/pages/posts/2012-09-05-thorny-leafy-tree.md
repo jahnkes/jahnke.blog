@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Adam
+author: adam
 date: 2012-09-05T12:08:05-05:00
 layout: post
 title: Thorny Leafy Tree

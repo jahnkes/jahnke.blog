@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Adam
+author: adam
 date: 2012-09-10T11:02:51-05:00
 layout: post
 title: Finally Some Good Coffee

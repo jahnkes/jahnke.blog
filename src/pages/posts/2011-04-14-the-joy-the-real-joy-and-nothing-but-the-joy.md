@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: The joy, the real joy, and nothing but the joy
 date: 2011-04-14T07:58:09-05:00
-author: Adam
+author: adam
 ---
 
 So, it’s getting pretty close to the day where I’m getting married. I’ve been thinking about how when such a huge event is coming up in your life you tend to start thinking about only that and life after that ‘big day’ seems to not even exist.

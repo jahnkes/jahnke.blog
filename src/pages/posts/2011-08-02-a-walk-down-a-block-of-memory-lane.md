@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: A walk down a block of Memory Lane
 date: 2011-08-02T08:38:00-05:00
-author: Olivia
+author: olivia
 ---
 
 I often have the habit of sitting at my computer with a coffee in one hand, painstakingly attempting a fluid one-handed typing progress. It’s a mistake. It’s just… that coffee is so good, you know? I feel like I might be betraying it if I set it down, and _it knows_ how good it is. It really stinks when you really think you’re probably awesome at something and no one cares. And I know this, so I hold my coffee; my good, Intelligentsia, french pressed, burr ground, heavy whipping creamed coffee. Adam brought it to me this morning, which is why it’s whipping creamed. That boy. He knows what’s good.

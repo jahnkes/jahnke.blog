@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: Mr. Collins
 date: 2011-10-18T09:17:59-05:00
-author: Olivia
+author: olivia
 ---
 
 > After dinner I was thinking of reading to you for an hour or two.

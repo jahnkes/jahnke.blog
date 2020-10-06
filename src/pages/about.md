@@ -4,6 +4,8 @@ title: About Us
 
 # About Us
 
+![The Jahnke Family](/media/fam.jpg)
+
 Adam and Olivia met, while yet teenagers, in a small town in Nebraska. At the
 time, Olivia was still touring in her family’s bluegrass band, which she had
 been doing since toddlerhood; and Adam was just getting his feet on the ground

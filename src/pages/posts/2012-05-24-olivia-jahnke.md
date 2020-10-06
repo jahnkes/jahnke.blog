@@ -2,7 +2,7 @@
 tags: []
 layout: post
 title: Olivia Jahnke
-author: Olivia
+author: olivia
 date: 2012-05-24T08:58:07-05:00
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Adam
+author: adam
 date: 2012-02-07T22:31:31-06:00
 layout: post
 title: "RC Sproul Jr: The Kingdom Notes: Forty Days of Mourning"

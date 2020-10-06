@@ -17,11 +17,11 @@ const AuthorTemplate = ({ data, pageContext: { author } }) => {
   )
 }
 
-export const tagPageQuery = graphql`
+export const authorPageQuery = graphql`
   query AuthorPage($author: String!) {
     allMarkdownRemark(
       filter: {
-        frontmatter: { layout: { eq: "post" }, author: { eq: $author } }
+        frontmatter: { layout: { eq: "post" }, author: { id: { eq: $author } } }
       }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
@@ -32,7 +32,11 @@ export const tagPageQuery = graphql`
           id
           frontmatter {
             date
-            author
+            author {
+              id
+              name
+              gravatar
+            }
             tags
             title
           }

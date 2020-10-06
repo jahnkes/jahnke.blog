@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: We have weird brains!!
 date: 2011-07-22T08:33:00-05:00
-author: Olivia
+author: olivia
 ---
 
 Last night as I was falling asleep I was thinking to myself about how fast our brains can think. Has it ever happened to you that you were in a conversation and paused to think and then the next sentence that came out was so far away from the last thing you said to each other that it was pretty untraceable for the other person? Then, as one can often do, and as I often did as a child, you can think backwards and figure out how you got to your current thought. Well, I was doing this last night in my falling asleep stage, and I realized my brain works even faster than it’s usual fast pace when I’m sleeping, and I reasoned with myself, that that’s probably why we’ll say things in our sleep that don’t make sense.

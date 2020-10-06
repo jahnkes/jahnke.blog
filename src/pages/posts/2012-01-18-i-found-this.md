@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2012-01-18T14:32:00-06:00
 layout: post
 title: I Found This

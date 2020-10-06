@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2011-12-22T11:06:19-06:00
 layout: post
 title: Some merry, some cheer

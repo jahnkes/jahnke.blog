@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2012-06-18T09:59:54-05:00
 layout: post
 title: Your Opinion

@@ -1,5 +1,5 @@
 ---
-author: Adam
+author: adam
 date: 2012-09-01T07:02:37-05:00
 layout: post
 tags: [london]

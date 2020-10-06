@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: Days long gone
 date: 2011-04-11T10:38:00-05:00
-author: Olivia
+author: olivia
 ---
 
 Today while going through the last of my things I found a CD of old pictures of my mom’s family that she nabbed from my grandma and scanned a few years ago. I love old photos. Here are a few.

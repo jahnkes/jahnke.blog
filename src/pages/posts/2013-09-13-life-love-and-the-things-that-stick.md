@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2013-09-13T10:04:00-05:00
 layout: post
 title: Life, Love and the Things That Stick

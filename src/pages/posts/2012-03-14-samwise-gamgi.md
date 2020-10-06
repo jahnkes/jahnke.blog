@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2012-03-14T13:39:49-05:00
 layout: post
 title: Samwise Gamgi

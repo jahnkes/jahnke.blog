@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2013-03-01T14:32:38-06:00
 layout: post
 title: Leo Tolstoy

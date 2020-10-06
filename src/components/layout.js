@@ -9,19 +9,13 @@ const TemplateWrapper = ({ children }) => (
   <React.Fragment>
     <Helmet>
       <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <link
-        href="https://fonts.googleapis.com/css?family=Fira+Code|Fira+Sans:400,400i&display=fallback"
-        rel="stylesheet"
-      />
       <link rel="authorization_endpoint" href="https://indieauth.com/auth" />
       <link rel="token_endpoint" href="https://tokens.indieauth.com/token" />
       <link
         rel="webmention"
-        href="https://webmention.io/adamyonk.com/webmention"
+        href="https://webmention.io/jahnke.blog/webmention"
       />
-      <link rel="pingback" href="https://webmention.io/adamyonk.com/xmlrpc" />
-      <link href="https://twitter.com/adamyonk" rel="me" />
-      <link href="https://github.com/adamyonk" rel="me" />
+      <link rel="pingback" href="https://webmention.io/jahnke.blog/xmlrpc" />
     </Helmet>
     <Header />
     <div id="content">{children}</div>
@@ -45,8 +39,9 @@ const TemplateWrapper = ({ children }) => (
         --link: var(--cyan);
         --link-hover: var(--tertiary);
 
-        --body: "Helvetica Neue", Helvetica sans-serif;
+        --body: system-ui, "Helvetica Neue", Helvetica, sans-serif;
         --monospace: monospace;
+        --heading: -apple-system-headline, var(--body);
       }
 
       @media (prefers-color-scheme: dark) {
@@ -76,6 +71,7 @@ const TemplateWrapper = ({ children }) => (
 
       ::selection {
         background-color: var(--yellow);
+        color: var(--background);
       }
 
       /* This is for gatsby-remark-autolink-headers */
@@ -98,6 +94,7 @@ const TemplateWrapper = ({ children }) => (
       h5,
       h6 {
         color: var(--cyan);
+        font-family: var(--heading);
         font-size: 100%;
         font-weight: 400;
         line-height: 1.1;
@@ -136,11 +133,30 @@ const TemplateWrapper = ({ children }) => (
         border-bottom: 1px solid currentColor;
       }
 
+      hr {
+        color: var(--tertiary);
+        border: none;
+        border-bottom: 0.1em solid currentColor;
+        margin: 2em;
+        position: relative;
+      }
+      hr::after {
+        background-color: var(--background);
+        content: "＋";
+        font-size: 1em;
+        left: 50%;
+        padding: 0 1em;
+        position: absolute;
+        top: 50%;
+        transform: translate(-50%, -50%);
+      }
+
       blockquote {
         border-left: 0.2em solid var(--yellow2);
         color: var(--secondary);
-        font-size: 1.2em;
-        font-weight: 200;
+        font-size: 1em;
+        font-weight: 300;
+        line-height: 150%;
         margin: 0;
         padding-left: 1em;
       }

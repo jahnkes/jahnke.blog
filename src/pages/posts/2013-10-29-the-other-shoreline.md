@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2013-10-29T14:05:00-05:00
 layout: post
 title: The Other Shoreline

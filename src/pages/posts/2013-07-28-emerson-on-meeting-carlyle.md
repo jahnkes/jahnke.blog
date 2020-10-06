@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2013-07-28T18:59:12-05:00
 layout: post
 title: Emerson on Meeting Carlyle

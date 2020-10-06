@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: Road trips
 date: 2011-08-14T23:42:34-05:00
-author: Adam
+author: adam
 ---
 
 Two things happened today that made me laugh hard, so I want the whole world to know them.

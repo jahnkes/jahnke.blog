@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2012-01-30T20:59:00-06:00
 layout: post
 title: Adam and His Bike

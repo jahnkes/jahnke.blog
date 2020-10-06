@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2013-07-14T12:16:56-05:00
 layout: post
 title: Alfred North Whitehead

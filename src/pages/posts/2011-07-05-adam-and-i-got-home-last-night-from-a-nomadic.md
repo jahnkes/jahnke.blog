@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: Post
 date: 2011-07-05T10:18:17-05:00
-author: Olivia
+author: olivia
 ---
 
 Adam and I got home last night from a nomadic journey westward where we participated in too many hours sitting in a car, too many coffee stops in one day, and too many hours running after a frisbee. However, apart from that we had a really awesome time with some amazing people of our acquaintance. God has blessed us a vast deal with people who have great character, ambition and stories to surround us in this earthly stay.

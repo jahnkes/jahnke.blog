@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2012-07-03T20:19:38-05:00
 layout: post
 title: Dostoevsky

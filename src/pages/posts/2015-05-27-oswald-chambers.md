@@ -3,7 +3,7 @@ layout: post
 title: Oswald Chambers
 date: 2015-05-27 11:49:50 -0500
 tags: []
-author: Adam
+author: adam
 ---
 
 > We have to receive the revelation that He is here. The reception of the Holy Spirit is the maintained attitude of a believer. When we receive the Holy Spirit, we receive quickening life from the ascended Lord.

@@ -3,7 +3,7 @@ tags: []
 layout: post
 date: 2014-11-19 18:08:00 -0600
 title: "Strength in Weakness"
-author: Adam
+author: adam
 ---
 
 > This is the common expectation in our world: Hide your weaknesses, highlight your strengths. Appear strong, even if you’re not.

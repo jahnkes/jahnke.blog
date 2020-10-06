@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: Conversation About Hotel Rooms
 date: 2012-02-09T12:37:54-06:00
-author: Olivia
+author: olivia
 ---
 
 _Me:_ Ew. Does that mean the room comes with a dog?

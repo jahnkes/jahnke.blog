@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Adam
+author: adam
 date: "2014-03-29T09:22:00-05:00"
 tags: [quote]
 title: The Things We Admire

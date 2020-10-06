@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2012-04-30T08:16:44-05:00
 layout: post
 title: George MacDonald

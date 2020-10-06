@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: Emmett's summer trip to Cali
 date: 2011-06-20T09:36:00-05:00
-author: Olivia
+author: olivia
 ---
 
 I’m the youngest of five children. Three of my siblings are brothers, Emmett is my youngest brother, the closest sibling to me in age. When we were kids we couldn’t stand each other.

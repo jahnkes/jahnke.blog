@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: Post
 date: 2011-01-26T11:13:11-06:00
-author: Olivia
+author: olivia
 ---
 
 Hello individual, whoever you may be.

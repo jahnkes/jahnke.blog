@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2012-11-30T09:42:52-06:00
 layout: post
 title: King David

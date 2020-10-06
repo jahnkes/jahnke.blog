@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: A little October for you
 date: 2011-11-07T10:19:28-06:00
-author: Olivia
+author: olivia
 ---
 
 ![](/media/luat0h309G1qfd5w2.jpg)

@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: Post
 date: 2011-01-29T09:47:46-06:00
-author: Olivia
+author: olivia
 ---
 
 I’m in Florida now. It is living up to it’s sunshiny reputation, thus far.

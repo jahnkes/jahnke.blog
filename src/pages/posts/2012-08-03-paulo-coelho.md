@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2012-08-03T09:12:35-05:00
 layout: post
 title: Paulo Coelho

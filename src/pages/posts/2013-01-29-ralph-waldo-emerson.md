@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Olivia
+author: olivia
 date: 2013-01-29T08:25:12-06:00
 layout: post
 title: Ralph Waldo Emerson

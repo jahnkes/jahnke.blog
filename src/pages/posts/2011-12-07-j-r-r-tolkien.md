@@ -3,7 +3,7 @@ tags: []
 layout: post
 title: J. R. R. Tolkien
 date: 2011-12-07T11:07:06-06:00
-author: Olivia
+author: olivia
 ---
 
 > I sit beside the fire and think<br/>

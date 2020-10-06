@@ -1,6 +1,6 @@
 ---
 tags: []
-author: Adam
+author: adam
 date: 2012-09-04T12:10:25-05:00
 layout: post
 title: Danger, Danger, Danger
