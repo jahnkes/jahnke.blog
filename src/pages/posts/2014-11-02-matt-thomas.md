@@ -1,7 +1,7 @@
 ---
 tags: []
 layout: post
-date: 2014-11-02 18:45:57 -0600
+date: 2014-11-02T18:45:57-0600
 title: "The Same Team"
 author: adam
 ---

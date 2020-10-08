@@ -1,6 +1,10 @@
 import React from "react"
 
-const Tag = ({ name }) => (
+type Props = {
+  name: string;
+}
+
+const Tag: React.FC<Props> = ({ name }) => (
   <>
     <a className="tag" href={`/tags/${name}`}>
       {name}

@@ -1,11 +1,10 @@
 import React from "react"
-import PropTypes from "prop-types"
 import Header from "./Header"
 import Footer from "./Footer"
 import { Helmet } from "react-helmet-async"
-require("prismjs/themes/prism-solarizedlight.css")
+import "prismjs/themes/prism-solarizedlight.css"
 
-const TemplateWrapper = ({ children }) => (
+const TemplateWrapper: React.FC = ({ children }) => (
   <React.Fragment>
     <Helmet>
       <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -316,9 +315,5 @@ const TemplateWrapper = ({ children }) => (
     `}</style>
   </React.Fragment>
 )
-
-TemplateWrapper.propTypes = {
-  children: PropTypes.node,
-}
 
 export default TemplateWrapper

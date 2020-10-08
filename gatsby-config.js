@@ -2,7 +2,7 @@ const { formatPath } = require("./src/util/formatPath")
 
 module.exports = {
   siteMetadata: {
-    title: "Adam & Olivia Jahnke",
+    title: "Jahnke's Blog",
     description: "The blog of Adam & Olivia Jahnke.",
     siteUrl: "https://jahnke.blog",
     author: "Adam & Olivia Jahnke",

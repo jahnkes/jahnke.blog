@@ -1,7 +1,7 @@
 ---
 tags: []
 layout: post
-date: 2014-11-02 18:04:57 -0600
+date: 2014-11-02T18:04:57-0600
 title: "Fyodor Dostoyevsky"
 author: adam
 ---

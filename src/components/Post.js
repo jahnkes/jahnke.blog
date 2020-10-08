@@ -11,7 +11,7 @@ const Post = ({
     html,
     timeToRead,
     fileAbsolutePath,
-    frontmatter: { updated, date, author, tags, link, title },
+    frontmatter: { date, author, tags, title },
   },
 }) => {
   return (

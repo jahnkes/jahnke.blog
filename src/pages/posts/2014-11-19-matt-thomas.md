@@ -1,7 +1,7 @@
 ---
 tags: []
 layout: post
-date: 2014-11-19 18:08:00 -0600
+date: 2014-11-19T18:08:00-0600
 title: "Strength in Weakness"
 author: adam
 ---

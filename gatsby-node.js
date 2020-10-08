@@ -1,7 +1,6 @@
-require("@babel/polyfill")
-const config = require("./gatsby-config.js")
 const path = require("path")
 const { format, parseISO } = require("date-fns")
+const config = require("./gatsby-config.js")
 const { formatPath } = require("./src/util/formatPath")
 const PER_PAGE = 10
 

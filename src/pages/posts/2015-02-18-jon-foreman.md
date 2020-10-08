@@ -1,7 +1,7 @@
 ---
 tags: []
 layout: post
-date: 2015-02-18 10:52:00 -0600
+date: 2015-02-18T10:52:00-0600
 title: "Jon Foreman"
 author: adam
 ---

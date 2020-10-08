@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oswald Chambers
-date: 2015-05-27 11:49:50 -0500
+date: 2015-05-27T11:49:50-0500
 tags: []
 author: adam
 ---
