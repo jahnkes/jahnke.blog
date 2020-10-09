@@ -3,7 +3,7 @@ import Post from "./Post"
 
 const PostList = ({ posts }) => (
   <ul className="posts">
-    {posts.map(({ node: post }) => (
+    {posts.map(({ node: post }) => console.log(post) || (
       <li key={post.id}>
         <Post post={post} />
       </li>

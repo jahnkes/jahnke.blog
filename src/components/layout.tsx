@@ -96,7 +96,20 @@ const TemplateWrapper: React.FC = ({ children }) => (
         font-family: var(--heading);
         font-size: 100%;
         font-weight: 400;
-        line-height: 1.1;
+        line-height: 1.3;
+      }
+      h1 {
+        font-size: 1.5em;
+        margin-bottom: 0.5em;
+      }
+      h2 {
+        font-size: 1.3em;
+      }
+      h3 {
+        font-size: 1.1em;
+      }
+      h4 {
+        text-transform: uppercase;
       }
 
       h1,
@@ -110,15 +123,6 @@ const TemplateWrapper: React.FC = ({ children }) => (
       ul,
       .highlight {
         margin-bottom: 20px;
-      }
-
-      h1 {
-        font-size: 2em;
-        margin-bottom: 0.5em;
-      }
-
-      h2 {
-        font-size: 1.3em;
       }
 
       a {

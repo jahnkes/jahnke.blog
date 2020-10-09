@@ -29,19 +29,14 @@ const Post = ({
           src={`https://www.gravatar.com/avatar/${author.gravatar}?s=80`}
         />
         <div>
-          Posted by <Link to={`/authors/${author.id}`}>{author.name}</Link> on{" "}
-          <Date date={date} />{" "}
+          By <Link to={`/authors/${author.id}`}>{author.name}</Link>,{" "}
+          <Date date={date} />. {(!!tags.length || timeToRead) && <br />}
           {!!tags.length && (
             <>
-              under <Tags tags={tags} />
+              Tagged <Tags tags={tags} />.{" "}
             </>
           )}
-          {timeToRead && (
-            <>
-              <br />
-              {timeToRead} minute read
-            </>
-          )}
+          {timeToRead && <>{timeToRead}&nbsp;minute&nbsp;read. </>}
         </div>
       </Meta>
       <div dangerouslySetInnerHTML={{ __html: html || excerpt }} />
@@ -53,7 +48,6 @@ const Post = ({
       <style jsx>{`
         h1 {
           border-bottom: 1px solid transparent;
-          font-size: 1.2em;
           margin-bottom: 0.5em;
           margin-top: 0;
         }

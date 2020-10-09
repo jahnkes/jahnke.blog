@@ -30,6 +30,7 @@ export const authorPageQuery = graphql`
           fileAbsolutePath
           excerpt(format: HTML, pruneLength: 400)
           id
+          timeToRead
           frontmatter {
             date
             author {
