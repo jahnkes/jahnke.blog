@@ -35,7 +35,9 @@ exports.createPages = ({ actions, graphql }) => {
       }
 
       archive: allMarkdownRemark(
-        filter: { frontmatter: { layout: { eq: "post" } } }
+        filter: {
+          frontmatter: { layout: { eq: "post" }, published: { eq: true } }
+        }
         sort: { order: DESC, fields: [frontmatter___date] }
       ) {
         edges {
@@ -57,7 +59,9 @@ exports.createPages = ({ actions, graphql }) => {
       }
 
       tags: allMarkdownRemark(
-        filter: { frontmatter: { layout: { eq: "post" } } }
+        filter: {
+          frontmatter: { layout: { eq: "post" }, published: { eq: true } }
+        }
       ) {
         group(field: frontmatter___tags) {
           fieldValue
@@ -66,7 +70,9 @@ exports.createPages = ({ actions, graphql }) => {
       }
 
       authors: allMarkdownRemark(
-        filter: { frontmatter: { layout: { eq: "post" } } }
+        filter: {
+          frontmatter: { layout: { eq: "post" }, published: { eq: true } }
+        }
       ) {
         group(field: frontmatter___author___id) {
           fieldValue

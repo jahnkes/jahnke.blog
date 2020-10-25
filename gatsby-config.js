@@ -82,7 +82,9 @@ module.exports = {
             query: `
               {
                 allMarkdownRemark(
-                  filter: { frontmatter: { layout: { eq: "post" } } },
+                  filter: {
+                    frontmatter: { layout: { eq: "post" }, published: { eq: true } }
+                  }
                   sort: { order: DESC, fields: [frontmatter___date] }
                 ) {
                   edges {
@@ -113,7 +115,14 @@ module.exports = {
                     html,
                     id,
                     fileAbsolutePath,
-                    frontmatter: { tags, author: { name }, link, title, date, updated },
+                    frontmatter: {
+                      tags,
+                      author: { name },
+                      link,
+                      title,
+                      date,
+                      updated,
+                    },
                   },
                 }) => {
                   return {

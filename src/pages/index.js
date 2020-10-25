@@ -20,7 +20,9 @@ const Index = ({
 export const pageQuery = graphql`
   query IndexQuery {
     allMarkdownRemark(
-      filter: { frontmatter: { layout: { eq: "post" } } }
+      filter: {
+        frontmatter: { layout: { eq: "post" }, published: { eq: true } }
+      }
       sort: { order: DESC, fields: [frontmatter___date] }
       limit: 10
     ) {
