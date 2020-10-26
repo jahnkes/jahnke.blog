@@ -12,20 +12,6 @@ I'm catching up this week after a tussle with some poison ivy. Nature's ever-rea
 
 ---
 
-## ['God intended it as a disposable planet': meet the US pastor preaching climate change denial](https://theconversation.com/god-intended-it-as-a-disposable-planet-meet-the-us-pastor-preaching-climate-change-denial-147712)
-
-Let's get my disgust out of the way first. John MacArthur preaching(!) that climate change is a hoax:
-
-> This is all political [and] financial agendas, class warfare, class envy … By the way, US$100 billion has been spent to make a case for global warming … driven by the socialist mentality …        even some of the feminist mentality that resents male success.
-> 
-> [...]
-> 
-> God intended us to use this planet, to fill this planet for the benefit of man. Never was it intended to be a permanent planet. It is a disposable planet. Christians ought to know that.
-
-I had something written here that my better half told me I shouldn't post.
-
----
-
 ## [Evangelicals Made a Bad Bargain With Trump](https://www.theatlantic.com/ideas/archive/2020/10/the-evangelical-movements-bad-bargain/616760/)
 
 Really enjoying the Atlantic lately. Peter Wehner:
