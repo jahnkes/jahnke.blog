@@ -1,10 +1,10 @@
 ---
 layout: "post"
 title: 'Link List: Voting Sure is Weird'
-date: 2020-10-21T11:29:53-05:00
-updated: 2020-10-21T11:29:53-05:00
+date: 2020-10-29T11:00:53-05:00
+updated: 2020-10-29T11:00:53-05:00
 tags: [link-list]
-published: false
+published: true
 author: adam
 ---
 
@@ -70,4 +70,4 @@ Eric Holthaus pretty accurately summarized my democracy wishlist:
 > 
 > All of these would restore and strengthen voting rights for people of color and folks on the front lines of climate change. None of these actions should be controversial.
 
-I'd only add [instant-runoff voting](https://en.wikipedia.org/wiki/Instant-runoff_voting).
+I'd also add [instant-runoff voting](https://en.wikipedia.org/wiki/Instant-runoff_voting).
