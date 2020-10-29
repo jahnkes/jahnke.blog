@@ -21,7 +21,7 @@ export const pageQuery = graphql`
   query IndexQuery {
     allMarkdownRemark(
       filter: {
-        frontmatter: { layout: { eq: "post" }, published: { eq: true } }
+        frontmatter: { layout: { eq: "post" }, published: { ne: false } }
       }
       sort: { order: DESC, fields: [frontmatter___date] }
       limit: 10

@@ -36,7 +36,7 @@ exports.createPages = ({ actions, graphql }) => {
 
       archive: allMarkdownRemark(
         filter: {
-          frontmatter: { layout: { eq: "post" }, published: { eq: true } }
+          frontmatter: { layout: { eq: "post" }, published: { ne: false } }
         }
         sort: { order: DESC, fields: [frontmatter___date] }
       ) {
@@ -60,7 +60,7 @@ exports.createPages = ({ actions, graphql }) => {
 
       tags: allMarkdownRemark(
         filter: {
-          frontmatter: { layout: { eq: "post" }, published: { eq: true } }
+          frontmatter: { layout: { eq: "post" }, published: { ne: false } }
         }
       ) {
         group(field: frontmatter___tags) {
@@ -71,7 +71,7 @@ exports.createPages = ({ actions, graphql }) => {
 
       authors: allMarkdownRemark(
         filter: {
-          frontmatter: { layout: { eq: "post" }, published: { eq: true } }
+          frontmatter: { layout: { eq: "post" }, published: { ne: false } }
         }
       ) {
         group(field: frontmatter___author___id) {
@@ -110,6 +110,7 @@ exports.createPages = ({ actions, graphql }) => {
       a[year].push(post)
       return a
     }, {})
+    console.log(buckets)
     createPage({
       path: `/archive`,
       component: path.resolve(`src/templates/archive.js`),
