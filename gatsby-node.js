@@ -110,7 +110,6 @@ exports.createPages = ({ actions, graphql }) => {
       a[year].push(post)
       return a
     }, {})
-    console.log(buckets)
     createPage({
       path: `/archive`,
       component: path.resolve(`src/templates/archive.js`),

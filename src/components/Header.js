@@ -100,7 +100,7 @@ const Header = () => {
           top: 50%;
         }
         .letters .and {
-          margin: -5px 0px 0px 1px;
+          margin: -9px 0 0 0;
           position: absolute;
           transform: translate(-50%, -50%);
         }
