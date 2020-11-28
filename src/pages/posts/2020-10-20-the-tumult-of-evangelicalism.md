@@ -41,6 +41,7 @@ Tim Keller:
 Rich Villodas tweeted recently:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Church is not to be found at the “center” of a left/right political world. <br><br>The Church is to be a species of its own kind, confounding left, right, and middle, and finding its identity from the “center” of God’s life.<a href="https://twitter.com/hashtag/todayssermon?src=hash&amp;ref_src=twsrc%5Etfw">#todayssermon</a></p>&mdash; Rich Villodas (@richvillodas) <a href="https://twitter.com/richvillodas/status/1315333180384215041?ref_src=twsrc%5Etfw">October 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 It's more difficult, it's filled with tension. It is where we belong.
 
