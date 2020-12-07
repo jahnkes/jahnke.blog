@@ -8,7 +8,7 @@ published: true
 author: adam
 ---
 
-_Best read while listing to [The Man Comes Around](https://music.apple.com/us/album/the-man-comes-around-early-take/1452873181?i=1452874365)_
+_Best read while listing to [The Man Comes Around](https://music.apple.com/us/album/the-man-comes-around-early-take/1452873181?i=1452874365)._
 
 I told some people this week that my wife was pretty sick and in no time our community was bringing us meals and offered to do literally everything that we would possibly need to leave the house for. We're getting care packages left on our doorstep every day. We are so moved by the generosity and love shown to us.
 
