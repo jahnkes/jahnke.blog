@@ -4,7 +4,7 @@ title: 'The Covid Comes Around'
 date: 2020-12-06T11:29:53-05:00
 updated: 2020-12-06T11:29:53-05:00
 tags: [community]
-published: false
+published: true
 author: adam
 ---
 
