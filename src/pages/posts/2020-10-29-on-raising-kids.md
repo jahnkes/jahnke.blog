@@ -3,7 +3,7 @@ layout: "post"
 title: 'On Raising Kids'
 date: 2020-10-29T11:29:53-05:00
 updated: 2020-10-29T11:29:53-05:00
-tags: [parenting]
+tags: [parenting,family,goals]
 published: true
 author: olivia
 ---
