@@ -19,7 +19,7 @@ const Header = () => {
     const even = document.querySelectorAll("#logo .bar:nth-of-type(even)")
     const odd = document.querySelectorAll("#logo .bar:nth-of-type(odd)")
 
-    const onScroll = event => {
+    const onScroll = () => {
       window.requestAnimationFrame(() => {
         const end = 400
         const to = 200

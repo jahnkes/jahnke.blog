@@ -3,6 +3,7 @@ import Link from "gatsby-link"
 import Date from "./Date"
 import Meta from "./Meta"
 import Tags from "./Tags"
+import Article from "./Article"
 import { formatPath } from "../util/formatPath"
 
 const Post = ({
@@ -15,7 +16,7 @@ const Post = ({
   },
 }) => {
   return (
-    <article>
+    <Article>
       <h1>
         {fileAbsolutePath ? (
           <Link to={formatPath(fileAbsolutePath)}>{title}</Link>
@@ -52,7 +53,7 @@ const Post = ({
           margin-top: 0;
         }
       `}</style>
-    </article>
+    </Article>
   )
 }
 

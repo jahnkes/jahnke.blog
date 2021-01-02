@@ -14,7 +14,8 @@ const PostList = ({ posts }) => (
         padding: 0;
       }
       li {
-        margin-bottom: 4em;
+        list-style-type: none;
+        margin: 0 0 4em;
       }
       li :global(a) {
         color: var(--primary);

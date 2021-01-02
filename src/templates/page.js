@@ -3,6 +3,7 @@ import SEO from "../components/SEO"
 import { graphql } from "gatsby"
 import Date from "../components/Date"
 import Meta from "../components/Meta"
+import Article from "../components/Article"
 import Layout from "../components/layout"
 
 const PageTemplage = ({
@@ -15,7 +16,7 @@ const PageTemplage = ({
 }) => {
   return (
     <Layout>
-      <article>
+      <Article>
         <SEO title={title} />
         <div dangerouslySetInnerHTML={{ __html: html }} />
         {!!date && (
@@ -31,7 +32,7 @@ const PageTemplage = ({
             </em>
           </Meta>
         )}
-      </article>
+      </Article>
     </Layout>
   )
 }
