@@ -16,6 +16,7 @@ const TemplateWrapper: React.FC = ({ children }) => (
         href="https://webmention.io/jahnke.blog/webmention"
       />
       <link rel="pingback" href="https://webmention.io/jahnke.blog/xmlrpc" />
+      <script async defer data-domain="jahnke.blog" src="https://plausible.io/js/plausible.js"></script>
     </Helmet>
     <Header />
     <div id="content">{children}</div>
