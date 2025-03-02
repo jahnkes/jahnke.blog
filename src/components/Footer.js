@@ -7,9 +7,10 @@ const Footer = () => {
         <a href="/about" title="About Us">
           About Us
         </a>
-        <a href="/archive" title="View the Archive">
+        {/*<a href="/archive" title="View the Archive">
           View the Archive
         </a>
+        */}
       </nav>
       <style jsx>{`
         nav {

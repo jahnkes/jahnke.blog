@@ -12,7 +12,7 @@ const Index = ({
   return (
     <Layout>
       <SEO />
-      <PostList posts={posts} />
+      <PostList posts={posts.slice(0,1)} />
     </Layout>
   )
 }
